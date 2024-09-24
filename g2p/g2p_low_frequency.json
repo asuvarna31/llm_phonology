@@ -1,0 +1,1042 @@
+{"grapheme": "absolute", "phoneme": "\u00e6 b s \u0259 l u t\n", "outputs": "\u02c8\u00e6bs\u0259l\u02ccut"}
+{"grapheme": "academic", "phoneme": "\u00e6 k \u0259 d \u025b m \u026a k\n", "outputs": "\u02cc\u00e6k\u0259d\u02c8\u025bm\u026ak"}
+{"grapheme": "acceptance", "phoneme": "\u0259 k s \u025b p t \u0259 n s\n", "outputs": "\u00e6ks\u02c8\u025bpt\u0259ns"}
+{"grapheme": "accommodation", "phoneme": "\u0259 k \u0251 m \u0259 d e \u026a \u0283 \u0259 n\n", "outputs": "\u0259k\u02cc\u0251m\u0259d\u02c8e\u026a\u0283\u0259n"}
+{"grapheme": "accordance", "phoneme": "\u0259 k \u0254 \u0279 d \u0259 n s\n", "outputs": "\u0259k\u02c8\u0254\u02d0\u0279d\u0259ns"}
+{"grapheme": "acronyms", "phoneme": "\u00e6 k \u0279 \u0259 n \u026a m z\n", "outputs": "\u02c8\u00e6k\u0279\u0259n\u026amz"}
+{"grapheme": "activist", "phoneme": "\u00e6 k t \u026a v \u026a s t\n", "outputs": "\u02c8\u00e6kt\u0259v\u0259st"}
+{"grapheme": "adaptive", "phoneme": "\u0259 d \u00e6 p t \u026a v\n", "outputs": "\u0259d\u02c8\u00e6pt\u026av"}
+{"grapheme": "adhere", "phoneme": "\u00e6 d h \u026a \u0279\n", "outputs": "\u0259dh\u02c8\u026a\u0279"}
+{"grapheme": "admire", "phoneme": "\u0259 d m a \u026a \u0279\n", "outputs": "\u00e6dm\u02c8a\u026a\u0279"}
+{"grapheme": "admired", "phoneme": "\u0259 d m a \u026a \u0279 d\n", "outputs": "\u0259dm\u02c8a\u026a\u025ad"}
+{"grapheme": "advisory", "phoneme": "\u0259 d v a \u026a z \u0259 \u0279 i\n", "outputs": "\u00e6dv\u02c8a\u026az\u025ai"}
+{"grapheme": "afraid", "phoneme": "\u0259 f \u0279 e \u026a d\n", "outputs": "\u0259f\u0279\u02c8e\u026ad"}
+{"grapheme": "afro", "phoneme": "\u00e6 f \u0279 o \u028a\n", "outputs": "\u02c8\u00e6f\u0279o\u028a"}
+{"grapheme": "agnes", "phoneme": "\u00e6 \u0261 n \u026a s\n", "outputs": "\u02c8\u00e6gn\u026as"}
+{"grapheme": "agreement", "phoneme": "\u0259 \u0261 \u0279 i m \u0259 n t\n", "outputs": "\u0259g\u0279\u02c8i\u02d0m\u0259nt"}
+{"grapheme": "alert", "phoneme": "\u0259 l \u025d t\n", "outputs": "\u0259l\u02c8\u025at"}
+{"grapheme": "allergic", "phoneme": "\u0259 l \u025c \u0279 d\u0361\u0292 \u026a k\n", "outputs": "\u0259l\u02c8\u025ad\u0292\u026ak"}
+{"grapheme": "alphabet", "phoneme": "\u00e6 l f \u0259 b \u025b t\n", "outputs": "\u02c8\u00e6lf\u0259b\u02cc\u025bt"}
+{"grapheme": "alps", "phoneme": "\u00e6 l p s\n", "outputs": "\u02c8\u00e6lps"}
+{"grapheme": "ama", "phoneme": "\u0251 m \u0259\n", "outputs": "\u02c8\u0251\u02d0m\u0259"}
+{"grapheme": "amp", "phoneme": "\u00e6 m p\n", "outputs": "\u02c8\u00e6mp"}
+{"grapheme": "amps", "phoneme": "\u00e6 m p s\n", "outputs": "\u02c8\u00e6mps"}
+{"grapheme": "analytical", "phoneme": "\u00e6 n \u0259 l \u026a t \u0259 k \u0259 l\n", "outputs": "\u02cc\u00e6n\u0259l\u02c8\u026at\u026ak\u0259l"}
+{"grapheme": "anchorage", "phoneme": "\u00e6 \u014b k \u0259 \u0279 \u026a d\u0361\u0292\n", "outputs": "\u02c8\u00e6\u014bk\u025a\u0259d\u0292"}
+{"grapheme": "answer", "phoneme": "\u00e6 n s \u025a\n", "outputs": "\u02c8\u00e6ns\u025a"}
+{"grapheme": "answers", "phoneme": "\u00e6 n s \u025a z\n", "outputs": "\u02c8\u00e6ns\u025az"}
+{"grapheme": "anthem", "phoneme": "\u00e6 n \u03b8 \u0259 m\n", "outputs": "\u02c8\u00e6n\u03b8\u0259m"}
+{"grapheme": "anthropology", "phoneme": "\u00e6 n \u03b8 \u0279 \u0259 p \u0251 l \u0259 d\u0361\u0292 i\n", "outputs": "\u02cc\u00e6n\u03b8\u0279\u0259p\u02c8\u0251\u02d0l\u0259d\u0292i"}
+{"grapheme": "apologize", "phoneme": "\u0259 p \u0251 l \u0259 d\u0361\u0292 a \u026a z\n", "outputs": "\u0259p\u02c8\u0251\u02d0l\u0259d\u0292\u02cca\u026az"}
+{"grapheme": "apparently", "phoneme": "\u0259 p \u00e6 \u0279 i n t l i\n", "outputs": "\u0259p\u02c8\u025b\u0279\u0259ntli"}
+{"grapheme": "approximately", "phoneme": "\u0259 p \u0279 \u0251 k s \u026a m \u0259 t l i\n", "outputs": "\u0259p\u0279\u02c8\u0251\u02d0ks\u0259m\u0259tli"}
+{"grapheme": "aruba", "phoneme": "\u0259 \u0279 u b \u0259\n", "outputs": "\u025a\u02c8u\u02d0b\u0259"}
+{"grapheme": "ascent", "phoneme": "\u0259 s \u025b n t\n", "outputs": "\u0259s\u02c8\u025bnt"}
+{"grapheme": "ask", "phoneme": "\u00e6 s k\n", "outputs": "\u02c8\u00e6sk"}
+{"grapheme": "asks", "phoneme": "\u00e6 s k s\n", "outputs": "\u02c8\u00e6sks"}
+{"grapheme": "aspire", "phoneme": "\u0259 s p a \u026a \u025a\n", "outputs": "\u0259sp\u02c8a\u026a\u0279"}
+{"grapheme": "assembly", "phoneme": "\u0259 s \u025b m b l i\n", "outputs": "\u0259s\u02c8\u025bmbli"}
+{"grapheme": "attentive", "phoneme": "\u0259 t \u025b n t \u026a v\n", "outputs": "\u0259t\u02c8\u025bnt\u026av"}
+{"grapheme": "attitude", "phoneme": "\u00e6 t \u026a t u d\n", "outputs": "\u02c8\u00e6t\u0259t\u02ccud"}
+{"grapheme": "attract", "phoneme": "\u0259 t \u0279 \u00e6 k t\n", "outputs": "\u0259t\u0279\u02c8\u00e6kt"}
+{"grapheme": "attracted", "phoneme": "\u0259 t \u0279 \u00e6 k t \u026a d\n", "outputs": "\u0259t\u0279\u02c8\u00e6kt\u0259d"}
+{"grapheme": "auction", "phoneme": "\u0254 k \u0283 \u0259 n\n", "outputs": "\u02c8\u0251\u02d0k\u0283\u0259n"}
+{"grapheme": "automobile", "phoneme": "\u0254 t \u0259 m o \u028a b i l\n", "outputs": "\u02c8\u0254\u02d0t\u0259mo\u028ab\u02ccil"}
+{"grapheme": "awake", "phoneme": "\u0259 w e \u026a k\n", "outputs": "\u0259w\u02c8e\u026ak"}
+{"grapheme": "azerbaijani", "phoneme": "\u00e6 z \u0259 \u0279 b a \u026a d\u0361\u0292 \u0251 n i\n", "outputs": "\u02cc\u0251z\u025aba\u026ad\u0292\u02c8\u0251\u02d0ni"}
+{"grapheme": "bahamas", "phoneme": "b \u0259 h \u0251 m \u0259 z\n", "outputs": "b\u0259h\u02c8\u0251\u02d0m\u0259z"}
+{"grapheme": "barber", "phoneme": "b \u0251 \u0279 b \u025a\n", "outputs": "b\u02c8\u0251\u02d0\u0279b\u025a"}
+{"grapheme": "basement", "phoneme": "b e \u026a s m \u0259 n t\n", "outputs": "b\u02c8e\u026asm\u0259nt"}
+{"grapheme": "basketball", "phoneme": "b \u00e6 s k \u026a t b \u0254 l\n", "outputs": "b\u02c8\u00e6sk\u0259tb\u02cc\u0254l"}
+{"grapheme": "bathtub", "phoneme": "b \u00e6 \u03b8 t \u028c b\n", "outputs": "b\u02c8\u00e6\u03b8t\u0259b"}
+{"grapheme": "baxter", "phoneme": "b \u00e6 k s t \u025a\n", "outputs": "b\u02c8\u00e6kst\u025a"}
+{"grapheme": "beautifully", "phoneme": "b j u t \u026a f \u0259 l i\n", "outputs": "bj\u02c8u\u02d0t\u0259fli"}
+{"grapheme": "beauty", "phoneme": "b j u t i\n", "outputs": "bj\u02c8u\u02d0ti"}
+{"grapheme": "beaver", "phoneme": "b i v \u025a\n", "outputs": "b\u02c8i\u02d0v\u025a"}
+{"grapheme": "behalf", "phoneme": "b \u026a h \u00e6 f\n", "outputs": "b\u026ah\u02c8\u00e6f"}
+{"grapheme": "beings", "phoneme": "b i \u026a \u014b z\n", "outputs": "b\u02c8i\u02d0\u026a\u014bz"}
+{"grapheme": "belong", "phoneme": "b \u026a l \u0254 \u014b\n", "outputs": "b\u026al\u02c8\u0254\u02d0\u014b"}
+{"grapheme": "belonged", "phoneme": "b \u026a l \u0254 \u014b d\n", "outputs": "b\u026al\u02c8\u0254\u02d0\u014bd"}
+{"grapheme": "belonging", "phoneme": "b \u026a l \u0254 \u014b \u026a \u014b\n", "outputs": "b\u026al\u02c8\u0254\u02d0\u014b\u026a\u014b"}
+{"grapheme": "belongs", "phoneme": "b \u026a l \u0254 \u014b z\n", "outputs": "b\u026al\u02c8\u0254\u02d0\u014bz"}
+{"grapheme": "bend", "phoneme": "b \u025b n d\n", "outputs": "b\u02c8\u025bnd"}
+{"grapheme": "bending", "phoneme": "b \u025b n d \u026a \u014b\n", "outputs": "b\u02c8\u025bnd\u026a\u014b"}
+{"grapheme": "beneficial", "phoneme": "b \u025b n \u0259 f \u026a \u0283 \u0259 l\n", "outputs": "b\u02cc\u025bn\u0259f\u02c8\u026a\u0283\u0259l"}
+{"grapheme": "bent", "phoneme": "b \u025b n t\n", "outputs": "b\u02c8\u025bnt"}
+{"grapheme": "bethany", "phoneme": "b \u025b \u03b8 \u0259 n i\n", "outputs": "b\u02c8\u025b\u03b8\u0259ni"}
+{"grapheme": "bid", "phoneme": "b \u026a d\n", "outputs": "b\u02c8\u026ad"}
+{"grapheme": "bidding", "phoneme": "b \u026a d \u026a \u014b\n", "outputs": "b\u02c8\u026ad\u026a\u014b"}
+{"grapheme": "bids", "phoneme": "b \u026a d z\n", "outputs": "b\u02c8\u026adz"}
+{"grapheme": "biker", "phoneme": "b a \u026a k \u025a\n", "outputs": "b\u02c8a\u026ak\u025a"}
+{"grapheme": "bingo", "phoneme": "b \u026a \u014b \u0261 o \u028a\n", "outputs": "b\u02c8\u026a\u014bgo\u028a"}
+{"grapheme": "bird", "phoneme": "b \u025d d\n", "outputs": "b\u02c8\u025ad"}
+{"grapheme": "birds", "phoneme": "b \u025d d z\n", "outputs": "b\u02c8\u025adz"}
+{"grapheme": "blair", "phoneme": "b l \u025b \u0279\n", "outputs": "bl\u02c8\u025b\u0279"}
+{"grapheme": "blazer", "phoneme": "b l e \u026a z \u025a\n", "outputs": "bl\u02c8e\u026az\u025a"}
+{"grapheme": "blew", "phoneme": "b l u\n", "outputs": "bl\u02c8u\u02d0"}
+{"grapheme": "bling", "phoneme": "b l \u026a \u014b\n", "outputs": "bl\u02c8a\u026an"}
+{"grapheme": "bliss", "phoneme": "b l \u026a s\n", "outputs": "bl\u02c8\u026as"}
+{"grapheme": "blitz", "phoneme": "b l \u026a t s\n", "outputs": "bl\u02c8\u026ats"}
+{"grapheme": "blow", "phoneme": "b l o \u028a\n", "outputs": "bl\u02c8o\u028a"}
+{"grapheme": "blown", "phoneme": "b l o \u028a n\n", "outputs": "bl\u02c8o\u028an"}
+{"grapheme": "blows", "phoneme": "b l o \u028a z\n", "outputs": "bl\u02c8o\u028az"}
+{"grapheme": "bondage", "phoneme": "b \u0251 n d \u026a d\u0361\u0292\n", "outputs": "b\u02c8\u0251\u02d0nd\u026ad\u0292"}
+{"grapheme": "bonus", "phoneme": "b o \u028a n \u0259 s\n", "outputs": "b\u02c8o\u028an\u0259s"}
+{"grapheme": "boone", "phoneme": "b u n\n", "outputs": "b\u02c8u\u02d0n"}
+{"grapheme": "boot", "phoneme": "b u t\n", "outputs": "b\u02c8u\u02d0t"}
+{"grapheme": "boots", "phoneme": "b u t s\n", "outputs": "b\u02c8u\u02d0ts"}
+{"grapheme": "bordeaux", "phoneme": "b \u0254 \u0279 d o \u028a\n", "outputs": "b\u0254\u0279d\u02c8o\u028a"}
+{"grapheme": "border", "phoneme": "b \u0254 \u0279 d \u025a\n", "outputs": "b\u02c8\u0254\u02d0\u0279d\u025a"}
+{"grapheme": "borders", "phoneme": "b \u0254 \u0279 d \u0259 \u0279 z\n", "outputs": "b\u02c8\u0254\u02d0\u0279d\u025az"}
+{"grapheme": "born", "phoneme": "b \u0254 \u0279 n\n", "outputs": "b\u02c8\u0254\u02d0\u0279n"}
+{"grapheme": "bottom", "phoneme": "b \u0251 t \u0259 m\n", "outputs": "b\u02c8\u0251\u02d0t\u0259m"}
+{"grapheme": "bottoms", "phoneme": "b \u0251 t \u0259 m s\n", "outputs": "b\u02c8\u0251\u02d0t\u0259mz"}
+{"grapheme": "box", "phoneme": "b \u0251 k s\n", "outputs": "b\u02c8\u0251\u02d0ks"}
+{"grapheme": "boxes", "phoneme": "b \u0251 k s \u026a z\n", "outputs": "b\u02c8\u0251\u02d0ks\u0259z"}
+{"grapheme": "boxing", "phoneme": "b \u0251 k s \u026a \u014b\n", "outputs": "b\u02c8\u0251\u02d0ks\u026a\u014b"}
+{"grapheme": "brass", "phoneme": "b \u0279 \u00e6 s\n", "outputs": "b\u0279\u02c8\u00e6s"}
+{"grapheme": "breeze", "phoneme": "b \u0279 i z\n", "outputs": "b\u0279\u02c8i\u02d0z"}
+{"grapheme": "brett", "phoneme": "b \u0279 \u025b t\n", "outputs": "b\u0279\u02c8\u025bt"}
+{"grapheme": "brewing", "phoneme": "b \u0279 u \u026a \u014b\n", "outputs": "b\u0279\u02c8u\u02d0\u026a\u014b"}
+{"grapheme": "bridal", "phoneme": "b \u0279 a \u026a d \u0259 l\n", "outputs": "b\u0279\u02c8a\u026ad\u0259l"}
+{"grapheme": "brigade", "phoneme": "b \u0279 \u026a \u0261 e \u026a d\n", "outputs": "b\u0279\u0259g\u02c8e\u026ad"}
+{"grapheme": "brit", "phoneme": "b \u0279 \u026a t\n", "outputs": "b\u0279\u02c8\u026at"}
+{"grapheme": "broker", "phoneme": "b \u0279 o \u028a k \u025a\n", "outputs": "b\u0279\u02c8o\u028ak\u025a"}
+{"grapheme": "brotherhood", "phoneme": "b \u0279 \u028c \u00f0 \u025a h \u028a d\n", "outputs": "b\u0279\u02c8\u028c\u00f0\u025ah\u02cc\u028ad"}
+{"grapheme": "brutal", "phoneme": "b \u0279 u t \u0259 l\n", "outputs": "b\u0279\u02c8u\u02d0t\u0259l"}
+{"grapheme": "bulk", "phoneme": "b \u028c l k\n", "outputs": "b\u02c8\u028clk"}
+{"grapheme": "bunny", "phoneme": "b \u028c n i\n", "outputs": "b\u02c8\u028cni"}
+{"grapheme": "burst", "phoneme": "b \u025d s t\n", "outputs": "b\u02c8\u025ast"}
+{"grapheme": "bursting", "phoneme": "b \u025d s t \u026a \u014b\n", "outputs": "b\u02c8\u025ast\u026a\u014b"}
+{"grapheme": "burundi", "phoneme": "b \u028a \u0279 \u028a n d i\n", "outputs": "b\u025a\u02c8\u028cndi"}
+{"grapheme": "businesses", "phoneme": "b \u026a z n \u026a s \u026a z\n", "outputs": "b\u02c8\u026azn\u0259s\u0259z"}
+{"grapheme": "but", "phoneme": "b \u028c t\n", "outputs": "b\u02c8\u028ct"}
+{"grapheme": "by", "phoneme": "b a \u026a\n", "outputs": "b\u02c8a\u026a"}
+{"grapheme": "bye", "phoneme": "b a \u026a\n", "outputs": "b\u02c8a\u026a"}
+{"grapheme": "bypass", "phoneme": "b a \u026a p \u00e6 s\n", "outputs": "b\u02c8a\u026ap\u02cc\u00e6s"}
+{"grapheme": "cafe", "phoneme": "k \u00e6 f e \u026a\n", "outputs": "k\u0259f\u02c8e\u026a"}
+{"grapheme": "calculator", "phoneme": "k \u00e6 l k j \u0259 l e \u026a t \u0259 \u0279\n", "outputs": "k\u02c8\u00e6lkj\u0259l\u02cce\u026at\u025a"}
+{"grapheme": "calibration", "phoneme": "k \u00e6 l \u026a b \u0279 e \u026a \u0283 \u0259 n\n", "outputs": "k\u02cc\u00e6l\u0259b\u0279\u02c8e\u026a\u0283\u0259n"}
+{"grapheme": "caller", "phoneme": "k \u0254 l \u025a\n", "outputs": "k\u02c8\u0254\u02d0l\u025a"}
+{"grapheme": "calorie", "phoneme": "k \u00e6 l \u0259 \u0279 i\n", "outputs": "k\u02c8\u00e6l\u025ai"}
+{"grapheme": "cambridge", "phoneme": "k e \u026a m b \u0279 \u026a d\u0361\u0292\n", "outputs": "k\u02c8e\u026amb\u0279\u026ad\u0292"}
+{"grapheme": "came", "phoneme": "k e \u026a m\n", "outputs": "k\u02c8e\u026am"}
+{"grapheme": "capital", "phoneme": "k \u00e6 p \u026a t \u0259 l\n", "outputs": "k\u02c8\u00e6p\u0259t\u0259l"}
+{"grapheme": "catalyst", "phoneme": "k \u00e6 t \u0259 l \u026a s t\n", "outputs": "k\u02c8\u00e6t\u0259l\u0259st"}
+{"grapheme": "cautious", "phoneme": "k \u0254 \u0283 \u0259 s\n", "outputs": "k\u02c8\u0254\u02d0\u0283\u0259s"}
+{"grapheme": "cd", "phoneme": "s i d i\n", "outputs": "s\u02c8i\u02d0d\u02c8i\u02d0"}
+{"grapheme": "cecilia", "phoneme": "s \u025b s i l i \u0259\n", "outputs": "s\u026as\u02c8i\u02d0lj\u0259"}
+{"grapheme": "centennial", "phoneme": "s \u025b n t \u025b n \u026a \u0259 l\n", "outputs": "s\u025bnt\u02c8\u025bni\u0259l"}
+{"grapheme": "centre", "phoneme": "s \u025b n t \u025a\n", "outputs": "s\u02c8\u025bnt\u025a"}
+{"grapheme": "centres", "phoneme": "s \u025b n t \u025a s\n", "outputs": "s\u02c8\u025bnt\u025az"}
+{"grapheme": "certainty", "phoneme": "s \u025d t n\u0329 t i\n", "outputs": "s\u02c8\u025at\u0259nti"}
+{"grapheme": "chang", "phoneme": "t\u0361\u0283 \u00e6 \u014b\n", "outputs": "t\u0283\u02c8\u00e6\u014b"}
+{"grapheme": "characteristic", "phoneme": "k \u025b \u0279 \u0259 k t \u0259 \u0279 \u026a s t \u026a k\n", "outputs": "k\u02cc\u025b\u0279\u0259kt\u025a\u02c8\u026ast\u026ak"}
+{"grapheme": "chat", "phoneme": "t\u0361\u0283 \u00e6 t\n", "outputs": "t\u0283\u02c8\u00e6t"}
+{"grapheme": "chats", "phoneme": "t\u0361\u0283 \u00e6 t s\n", "outputs": "t\u0283\u02c8\u00e6ts"}
+{"grapheme": "chatting", "phoneme": "t\u0361\u0283 \u00e6 t \u026a \u014b\n", "outputs": "t\u0283\u02c8\u00e6t\u026a\u014b"}
+{"grapheme": "cheat", "phoneme": "t\u0361\u0283 i t\n", "outputs": "t\u0283\u02c8i\u02d0t"}
+{"grapheme": "cheating", "phoneme": "t\u0361\u0283 i t \u026a \u014b\n", "outputs": "t\u0283\u02c8i\u02d0t\u026a\u014b"}
+{"grapheme": "cheats", "phoneme": "t\u0361\u0283 i t s\n", "outputs": "t\u0283\u02c8i\u02d0ts"}
+{"grapheme": "chef", "phoneme": "\u0283 \u025b f\n", "outputs": "\u0283\u02c8\u025bf"}
+{"grapheme": "chest", "phoneme": "t\u0361\u0283 \u025b s t\n", "outputs": "t\u0283\u02c8\u025bst"}
+{"grapheme": "chests", "phoneme": "t\u0361\u0283 \u025b s t s\n", "outputs": "t\u0283\u02c8\u025bsts"}
+{"grapheme": "chevron", "phoneme": "\u0283 \u025b v \u0279 \u0259 n\n", "outputs": "\u0283\u02c8\u025bv\u0279\u0259n"}
+{"grapheme": "chic", "phoneme": "\u0283 i k\n", "outputs": "\u0283\u02c8i\u02d0k"}
+{"grapheme": "chicken", "phoneme": "t\u0361\u0283 \u026a k \u026a n\n", "outputs": "t\u0283\u02c8\u026ak\u0259n"}
+{"grapheme": "chickens", "phoneme": "t\u0361\u0283 \u026a k \u0259 n z\n", "outputs": "t\u0283\u02c8\u026ak\u0259nz"}
+{"grapheme": "chrome", "phoneme": "k \u0279 o \u028a m\n", "outputs": "k\u0279\u02c8o\u028am"}
+{"grapheme": "clash", "phoneme": "k l \u00e6 \u0283\n", "outputs": "kl\u02c8\u00e6\u0283"}
+{"grapheme": "clearance", "phoneme": "k l \u026a \u0279 \u0259 n t s\n", "outputs": "kl\u02c8\u026a\u0279\u0259ns"}
+{"grapheme": "climax", "phoneme": "k l a \u026a m \u00e6 k s\n", "outputs": "kl\u02c8a\u026am\u02cc\u00e6ks"}
+{"grapheme": "clinton", "phoneme": "k l \u026a n t \u0259 n\n", "outputs": "kl\u02c8\u026ant\u0259n"}
+{"grapheme": "cloves", "phoneme": "k l o \u028a v z\n", "outputs": "kl\u02c8o\u028avz"}
+{"grapheme": "clutter", "phoneme": "k l \u028c t \u025a\n", "outputs": "kl\u02c8\u028ct\u025a"}
+{"grapheme": "coalition", "phoneme": "k o \u028a \u0259 l \u026a \u0283 \u0259 n\n", "outputs": "k\u02cco\u028a\u0259l\u02c8\u026a\u0283\u0259n"}
+{"grapheme": "code", "phoneme": "k o \u028a d\n", "outputs": "k\u02c8o\u028ad"}
+{"grapheme": "codes", "phoneme": "k o \u028a d z\n", "outputs": "k\u02c8o\u028adz"}
+{"grapheme": "col", "phoneme": "k \u0254 l\n", "outputs": "k\u02c8o\u028al"}
+{"grapheme": "cole", "phoneme": "k o \u028a l\n", "outputs": "k\u02c8o\u028al"}
+{"grapheme": "colleague", "phoneme": "k \u0251 l i \u0261\n", "outputs": "k\u02c8\u0251\u02d0lig"}
+{"grapheme": "colleagues", "phoneme": "k \u0251 l i \u0261 z\n", "outputs": "k\u02c8\u0251\u02d0ligz"}
+{"grapheme": "collected", "phoneme": "k \u0259 l \u025b k t \u026a d\n", "outputs": "k\u0259l\u02c8\u025bkt\u0259d"}
+{"grapheme": "collecting", "phoneme": "k \u0259 l \u025b k t \u026a \u014b\n", "outputs": "k\u0259l\u02c8\u025bkt\u026a\u014b"}
+{"grapheme": "color", "phoneme": "k \u028c l \u025a\n", "outputs": "k\u02c8\u028cl\u025a"}
+{"grapheme": "colored", "phoneme": "k \u028c l \u0259 \u0279 d\n", "outputs": "k\u02c8\u028cl\u025ad"}
+{"grapheme": "colors", "phoneme": "k \u028c l \u025a z\n", "outputs": "k\u02c8\u028cl\u025az"}
+{"grapheme": "comeback", "phoneme": "k \u028c m b \u00e6 k\n", "outputs": "k\u02c8\u028cmb\u02cc\u00e6k"}
+{"grapheme": "comet", "phoneme": "k \u0254 m \u0259 t\n", "outputs": "k\u02c8\u0251\u02d0m\u0259t"}
+{"grapheme": "comfy", "phoneme": "k \u028c m f i\n", "outputs": "k\u02c8\u028cmfi"}
+{"grapheme": "commerce", "phoneme": "k \u0251 m \u025a s\n", "outputs": "k\u02c8\u0251\u02d0m\u025as"}
+{"grapheme": "commonly", "phoneme": "k \u0251 m \u0259 n l i\n", "outputs": "k\u02c8\u0251\u02d0m\u0259nli"}
+{"grapheme": "commute", "phoneme": "k \u0259 m j u t\n", "outputs": "k\u0259mj\u02c8u\u02d0t"}
+{"grapheme": "comp", "phoneme": "k \u0254 m p\n", "outputs": "k\u02c8\u0251\u02d0mp"}
+{"grapheme": "compartment", "phoneme": "k \u0259 m p \u0251 \u0279 t m \u0259 n t\n", "outputs": "k\u0259mp\u02c8\u0251\u02d0\u0279tm\u0259nt"}
+{"grapheme": "complaints", "phoneme": "k \u0259 m p l e \u026a n t s\n", "outputs": "k\u0259mpl\u02c8e\u026ants"}
+{"grapheme": "completely", "phoneme": "k \u0259 m p l i t l i\n", "outputs": "k\u0259mpl\u02c8i\u02d0tli"}
+{"grapheme": "compute", "phoneme": "k \u0259 m p j u t\n", "outputs": "k\u0259mpj\u02c8u\u02d0t"}
+{"grapheme": "computing", "phoneme": "k \u0259 m p j u t \u026a \u014b\n", "outputs": "k\u0259mpj\u02c8u\u02d0t\u026a\u014b"}
+{"grapheme": "con", "phoneme": "k \u0251 n\n", "outputs": "k\u02c8\u0251\u02d0n"}
+{"grapheme": "conclude", "phoneme": "k \u0259 n k l u d\n", "outputs": "k\u0259nkl\u02c8u\u02d0d"}
+{"grapheme": "concluded", "phoneme": "k \u0259 n k l u d \u026a d\n", "outputs": "k\u0259nkl\u02c8u\u02d0d\u0259d"}
+{"grapheme": "concludes", "phoneme": "k \u0259 n k l u d z\n", "outputs": "k\u0259nkl\u02c8u\u02d0dz"}
+{"grapheme": "condominium", "phoneme": "k \u0251 n d \u0259 m \u026a n i \u0259 m\n", "outputs": "k\u02cc\u0251nd\u0259m\u02c8\u026ani\u0259m"}
+{"grapheme": "confession", "phoneme": "k \u0259 n f \u025b \u0283 \u0259 n\n", "outputs": "k\u0259nf\u02c8\u025b\u0283\u0259n"}
+{"grapheme": "confetti", "phoneme": "k \u0259 n f \u025b t i\n", "outputs": "k\u0259nf\u02c8\u025bti"}
+{"grapheme": "configure", "phoneme": "k \u0259 n f \u026a \u0261 j \u025a\n", "outputs": "k\u0259nf\u02c8\u026agj\u025a"}
+{"grapheme": "connections", "phoneme": "k \u0259 n \u025b k \u0283 \u0259 n z\n", "outputs": "k\u0259n\u02c8\u025bk\u0283\u0259nz"}
+{"grapheme": "consent", "phoneme": "k \u0259 n s \u025b n t\n", "outputs": "k\u0259ns\u02c8\u025bnt"}
+{"grapheme": "consider", "phoneme": "k \u0259 n s \u026a d \u025a\n", "outputs": "k\u0259ns\u02c8\u026ad\u025a"}
+{"grapheme": "consideration", "phoneme": "k \u0259 n s \u026a d \u0259 \u0279 e \u026a \u0283 \u0259 n\n", "outputs": "k\u0259ns\u02cc\u026ad\u025a\u02c8e\u026a\u0283\u0259n"}
+{"grapheme": "consideration", "phoneme": "k \u0259 n s \u026a d \u0259 \u0279 e \u026a \u0283 \u0259 n\n", "outputs": "k\u0259ns\u02cc\u026ad\u025a\u02c8e\u026a\u0283\u0259n"}
+{"grapheme": "considered", "phoneme": "k \u0259 n s \u026a d \u025a d\n", "outputs": "k\u0259ns\u02c8\u026ad\u025ad"}
+{"grapheme": "considering", "phoneme": "k \u0259 n s \u026a d \u0259 \u0279 \u026a \u014b\n", "outputs": "k\u0259ns\u02c8\u026ad\u025a\u026a\u014b"}
+{"grapheme": "considers", "phoneme": "k \u0259 n s \u026a d \u025a z\n", "outputs": "k\u0259ns\u02c8\u026ad\u025az"}
+{"grapheme": "constitute", "phoneme": "k \u0251 n s t \u026a t j u t\n", "outputs": "k\u02c8\u0251\u02d0nst\u0259t\u02ccut"}
+{"grapheme": "constitutes", "phoneme": "k \u0251 n s t \u026a t u t s\n", "outputs": "k\u02c8\u0251\u02d0nst\u0259t\u02ccuts"}
+{"grapheme": "consumption", "phoneme": "k \u0259 n s \u028c m p \u0283 \u0259 n\n", "outputs": "k\u0259ns\u02c8\u028cmp\u0283\u0259n"}
+{"grapheme": "contingent", "phoneme": "k \u0259 n t \u026a n d\u0361\u0292 \u0259 n t\n", "outputs": "k\u0259nt\u02c8\u026and\u0292\u0259nt"}
+{"grapheme": "continuously", "phoneme": "k \u0259 n t \u026a n j u \u0259 s l i\n", "outputs": "k\u0259nt\u02c8\u026anju\u0259sli"}
+{"grapheme": "continuum", "phoneme": "k \u0259 n t \u026a n j u \u0259 m\n", "outputs": "k\u0259nt\u02c8\u026anju\u0259m"}
+{"grapheme": "controller", "phoneme": "k \u0259 n t \u0279 o \u028a l \u025a\n", "outputs": "k\u0259nt\u0279\u02c8o\u028al\u025a"}
+{"grapheme": "converted", "phoneme": "k \u0259 n v \u025d t \u026a d\n", "outputs": "k\u0259nv\u02c8\u025at\u026ad"}
+{"grapheme": "convince", "phoneme": "k \u0259 n v \u026a n s\n", "outputs": "k\u0259nv\u02c8\u026ans"}
+{"grapheme": "convinced", "phoneme": "k \u0259 n v \u026a n s t\n", "outputs": "k\u0259nv\u02c8\u026anst"}
+{"grapheme": "convincing", "phoneme": "k \u0259 n v \u026a n s \u026a \u014b\n", "outputs": "k\u0259nv\u02c8\u026ans\u026a\u014b"}
+{"grapheme": "cookbook", "phoneme": "k \u028a k b \u028a k\n", "outputs": "k\u02c8\u028akb\u02cc\u028ak"}
+{"grapheme": "cooker", "phoneme": "k \u028a k \u025a\n", "outputs": "k\u02c8\u028ak\u025a"}
+{"grapheme": "cookies", "phoneme": "k \u028a k i z\n", "outputs": "k\u02c8\u028akiz"}
+{"grapheme": "cor", "phoneme": "k \u0254 \u0279\n", "outputs": "k\u02c8\u0254\u02d0\u0279"}
+{"grapheme": "corrections", "phoneme": "k \u0259 \u0279 \u025b k \u0283 \u0259 n z\n", "outputs": "k\u025a\u02c8\u025bk\u0283\u0259nz"}
+{"grapheme": "correspondent", "phoneme": "k \u0254 \u0279 \u026a s p \u0251 n d \u0259 n t\n", "outputs": "k\u02cc\u0254\u0279\u0259sp\u02c8\u0251\u02d0nd\u0259nt"}
+{"grapheme": "corruption", "phoneme": "k \u0259 \u0279 \u028c p \u0283 \u0259 n\n", "outputs": "k\u025a\u02c8\u028cp\u0283\u0259n"}
+{"grapheme": "cosy", "phoneme": "k o \u028a z i\n", "outputs": "k\u02c8o\u028azi"}
+{"grapheme": "cougar", "phoneme": "k u \u0261 \u025a\n", "outputs": "k\u02c8u\u02d0g\u025a"}
+{"grapheme": "counter", "phoneme": "k a \u028a n t \u025a\n", "outputs": "k\u02c8a\u028ant\u025a"}
+{"grapheme": "countries", "phoneme": "k \u028c n t \u0279 i z\n", "outputs": "k\u02c8\u028cnt\u0279iz"}
+{"grapheme": "courses", "phoneme": "k \u0254 \u0279 s \u026a z\n", "outputs": "k\u02c8\u0254\u02d0\u0279s\u0259z"}
+{"grapheme": "courteous", "phoneme": "k \u025d t i \u0259 s\n", "outputs": "k\u02c8\u025ati\u0259s"}
+{"grapheme": "cpu", "phoneme": "s i p i j u\n", "outputs": "k\u02c8u\u02d0"}
+{"grapheme": "cradle", "phoneme": "k \u0279 e \u026a d \u0259 l\n", "outputs": "k\u0279\u02c8e\u026ad\u0259l"}
+{"grapheme": "crash", "phoneme": "k \u0279 \u00e6 \u0283\n", "outputs": "k\u0279\u02c8\u00e6\u0283"}
+{"grapheme": "crashed", "phoneme": "k \u0279 \u00e6 \u0283 t\n", "outputs": "k\u0279\u02c8\u00e6\u0283t"}
+{"grapheme": "crashes", "phoneme": "k \u0279 \u00e6 \u0283 \u026a z\n", "outputs": "k\u0279\u02c8\u00e6\u0283\u026az"}
+{"grapheme": "crashing", "phoneme": "k \u0279 \u00e6 \u0283 \u026a \u014b\n", "outputs": "k\u0279\u02c8\u00e6\u0283\u026a\u014b"}
+{"grapheme": "crazy", "phoneme": "k \u0279 e \u026a z i\n", "outputs": "k\u0279\u02c8e\u026azi"}
+{"grapheme": "creamy", "phoneme": "k \u0279 i m i\n", "outputs": "k\u0279\u02c8i\u02d0mi"}
+{"grapheme": "creed", "phoneme": "k \u0279 i d\n", "outputs": "k\u0279\u02c8i\u02d0d"}
+{"grapheme": "creep", "phoneme": "k \u0279 i p\n", "outputs": "k\u0279\u02c8i\u02d0p"}
+{"grapheme": "crest", "phoneme": "k \u0279 \u025b s t\n", "outputs": "k\u0279\u02c8\u025bst"}
+{"grapheme": "crib", "phoneme": "k \u0279 \u026a b\n", "outputs": "k\u0279\u02c8\u026ab"}
+{"grapheme": "cricket", "phoneme": "k \u0279 \u026a k \u026a t\n", "outputs": "k\u0279\u02c8\u026ak\u0259t"}
+{"grapheme": "criminal", "phoneme": "k \u0279 \u026a m \u0259 n \u0259 l\n", "outputs": "k\u0279\u02c8\u026am\u0259n\u0259l"}
+{"grapheme": "croatian", "phoneme": "k \u0279 o \u028a e \u026a \u0283 \u0259 n\n", "outputs": "k\u0279o\u028a\u02c8e\u026a\u0283\u0259n"}
+{"grapheme": "crochet", "phoneme": "k \u0279 o \u028a \u0283 e \u026a\n", "outputs": "k\u0279o\u028a\u0283\u02c8e\u026a"}
+{"grapheme": "crush", "phoneme": "k \u0279 \u028c \u0283\n", "outputs": "k\u0279\u02c8\u028c\u0283"}
+{"grapheme": "crushed", "phoneme": "k \u0279 \u028c \u0283 t\n", "outputs": "k\u0279\u02c8\u028c\u0283t"}
+{"grapheme": "crushing", "phoneme": "k \u0279 \u028c \u0283 \u026a \u014b\n", "outputs": "k\u0279\u02c8\u028c\u0283\u026a\u014b"}
+{"grapheme": "cubic", "phoneme": "k j u b \u026a k\n", "outputs": "kj\u02c8u\u02d0b\u026ak"}
+{"grapheme": "cuisine", "phoneme": "k w \u026a z i n\n", "outputs": "kw\u026az\u02c8i\u02d0n"}
+{"grapheme": "cumming", "phoneme": "k \u028c m \u026a \u014b\n", "outputs": "k\u02c8\u028cm\u026a\u014b"}
+{"grapheme": "custody", "phoneme": "k \u028c s t \u0259 d i\n", "outputs": "k\u02c8\u028cst\u0259di"}
+{"grapheme": "customer", "phoneme": "k \u028c s t \u0259 m \u025a\n", "outputs": "k\u02c8\u028cst\u0259m\u025a"}
+{"grapheme": "customers", "phoneme": "k \u028c s t \u0259 m \u025a z\n", "outputs": "k\u02c8\u028cst\u0259m\u025az"}
+{"grapheme": "cutter", "phoneme": "k \u028c t \u025a\n", "outputs": "k\u02c8\u028ct\u025a"}
+{"grapheme": "cylinder", "phoneme": "s \u026a l \u0259 n d \u025a\n", "outputs": "s\u02c8\u026al\u0259nd\u025a"}
+{"grapheme": "dame", "phoneme": "d e \u026a m\n", "outputs": "d\u02c8e\u026am"}
+{"grapheme": "dare", "phoneme": "d \u025b \u0279\n", "outputs": "d\u02c8\u025b\u0279"}
+{"grapheme": "death", "phoneme": "d \u025b \u03b8\n", "outputs": "d\u02c8\u025b\u03b8"}
+{"grapheme": "debit", "phoneme": "d \u025b b \u026a t\n", "outputs": "d\u02c8\u025bb\u026at"}
+{"grapheme": "debut", "phoneme": "d e \u026a b j u\n", "outputs": "de\u026abj\u02c8u\u02d0"}
+{"grapheme": "debuts", "phoneme": "d e \u026a b j u z\n", "outputs": "d\u02c8e\u026abjuz"}
+{"grapheme": "decay", "phoneme": "d i k e \u026a\n", "outputs": "d\u0259k\u02c8e\u026a"}
+{"grapheme": "decide", "phoneme": "d \u026a s a \u026a d\n", "outputs": "d\u026as\u02c8a\u026ad"}
+{"grapheme": "deciding", "phoneme": "d \u026a s a \u026a d \u026a \u014b\n", "outputs": "d\u0259s\u02c8a\u026ad\u026a\u014b"}
+{"grapheme": "delaware", "phoneme": "d \u025b l \u0259 w \u025b \u0279\n", "outputs": "d\u02c8\u025bl\u0259w\u02cc\u025b\u0279"}
+{"grapheme": "deli", "phoneme": "d \u025b l i\n", "outputs": "d\u02c8\u025bli"}
+{"grapheme": "deliver", "phoneme": "d \u026a l \u026a v \u025a\n", "outputs": "d\u026al\u02c8\u026av\u025a"}
+{"grapheme": "delivered", "phoneme": "d \u026a l \u026a v \u025a d\n", "outputs": "d\u026al\u02c8\u026av\u025ad"}
+{"grapheme": "delta", "phoneme": "d \u025b l t \u0259\n", "outputs": "d\u02c8\u025blt\u0259"}
+{"grapheme": "demo", "phoneme": "d \u025b m o \u028a\n", "outputs": "d\u02c8\u025bmo\u028a"}
+{"grapheme": "democratic", "phoneme": "d \u025b m \u0259 k \u0279 \u00e6 t \u026a k\n", "outputs": "d\u02cc\u025bm\u0259k\u0279\u02c8\u00e6t\u026ak"}
+{"grapheme": "demos", "phoneme": "d \u025b m o \u028a s\n", "outputs": "d\u02c8\u025bm\u02cco\u028az"}
+{"grapheme": "denver", "phoneme": "d \u025b n v \u025a\n", "outputs": "d\u02c8\u025bnv\u025a"}
+{"grapheme": "depression", "phoneme": "d \u0259 p \u0279 \u025b \u0283 \u0259 n\n", "outputs": "d\u026ap\u0279\u02c8\u025b\u0283\u0259n"}
+{"grapheme": "derry", "phoneme": "d \u025b \u0279 i\n", "outputs": "d\u02c8\u025b\u0279i"}
+{"grapheme": "design", "phoneme": "d \u026a z a \u026a n\n", "outputs": "d\u026az\u02c8a\u026an"}
+{"grapheme": "designed", "phoneme": "d \u026a z a \u026a n d\n", "outputs": "d\u026az\u02c8a\u026and"}
+{"grapheme": "designs", "phoneme": "d \u026a z a \u026a n z\n", "outputs": "d\u026az\u02c8a\u026anz"}
+{"grapheme": "dessert", "phoneme": "d \u026a z \u025d t\n", "outputs": "d\u026az\u02c8\u025at"}
+{"grapheme": "determine", "phoneme": "d \u026a t \u025d m \u026a n\n", "outputs": "d\u0259t\u02c8\u025am\u0259n"}
+{"grapheme": "determined", "phoneme": "d \u026a t \u025d m \u026a n d\n", "outputs": "d\u026at\u02c8\u025am\u0259nd"}
+{"grapheme": "devotional", "phoneme": "d \u026a v o \u028a \u0283 \u0259 n \u0259 l\n", "outputs": "d\u026av\u02c8o\u028a\u0283\u0259n\u0259l"}
+{"grapheme": "differentiate", "phoneme": "d \u026a f \u0259 \u0279 \u025b n t\u0361\u0283 i e \u026a t\n", "outputs": "d\u02cc\u026af\u025a\u02c8\u025bn\u0283i\u02cce\u026at"}
+{"grapheme": "dirty", "phoneme": "d \u025d t i\n", "outputs": "d\u02c8\u025ati"}
+{"grapheme": "disc", "phoneme": "d \u026a s k\n", "outputs": "d\u02c8\u026ask"}
+{"grapheme": "disciplinary", "phoneme": "d \u026a s \u0259 p l \u0259 n \u025b \u0279 i\n", "outputs": "d\u02c8\u026as\u0259pl\u0259n\u02cc\u025b\u0279i"}
+{"grapheme": "discoveries", "phoneme": "d \u026a s k \u028c v \u0259 \u0279 i z\n", "outputs": "d\u026ask\u02c8\u028cv\u025aiz"}
+{"grapheme": "discreet", "phoneme": "d \u026a s k \u0279 i t\n", "outputs": "d\u026ask\u0279\u02c8i\u02d0t"}
+{"grapheme": "discussion", "phoneme": "d \u026a s k \u028c \u0283 \u0259 n\n", "outputs": "d\u026ask\u02c8\u028c\u0283\u0259n"}
+{"grapheme": "disney", "phoneme": "d \u026a z n i\n", "outputs": "d\u02c8\u026azni"}
+{"grapheme": "disneyland", "phoneme": "d \u026a z n i l \u00e6 n d\n", "outputs": "d\u02c8\u026aznil\u02cc\u00e6nd"}
+{"grapheme": "dispose", "phoneme": "d \u026a s p o \u028a z\n", "outputs": "d\u026asp\u02c8o\u028az"}
+{"grapheme": "disruption", "phoneme": "d \u026a s \u0279 \u028c p \u0283 \u0259 n\n", "outputs": "d\u026as\u0279\u02c8\u028cp\u0283\u0259n"}
+{"grapheme": "distinctive", "phoneme": "d \u026a s t \u026a \u014b k t \u026a v\n", "outputs": "d\u026ast\u02c8\u026a\u014bkt\u026av"}
+{"grapheme": "distinguish", "phoneme": "d \u026a s t \u026a \u014b \u0261 w \u026a \u0283\n", "outputs": "d\u026ast\u02c8\u026a\u014bgw\u026a\u0283"}
+{"grapheme": "distinguished", "phoneme": "d \u026a s t \u026a \u014b \u0261 w \u026a \u0283 t\n", "outputs": "d\u026ast\u02c8\u026a\u014bgw\u026a\u0283t"}
+{"grapheme": "dna", "phoneme": "d i \u025b n e \u026a\n", "outputs": "d\u02c8i\u02d0\u02cc\u025bn\u02c8e\u026a"}
+{"grapheme": "doubt", "phoneme": "d a \u028a t\n", "outputs": "d\u02c8a\u028at"}
+{"grapheme": "doubts", "phoneme": "d a \u028a t s\n", "outputs": "d\u02c8a\u028ats"}
+{"grapheme": "dough", "phoneme": "d o \u028a\n", "outputs": "d\u02c8o\u028a"}
+{"grapheme": "dozen", "phoneme": "d \u028c z \u0259 n\n", "outputs": "d\u02c8\u028cz\u0259n"}
+{"grapheme": "dramatic", "phoneme": "d \u0279 \u0259 m \u00e6 t \u026a k\n", "outputs": "d\u0279\u0259m\u02c8\u00e6t\u026ak"}
+{"grapheme": "dug", "phoneme": "d \u028c \u0261\n", "outputs": "d\u02c8\u028cg"}
+{"grapheme": "duke", "phoneme": "d j u k\n", "outputs": "d\u02c8u\u02d0k"}
+{"grapheme": "dummies", "phoneme": "d \u028c m i z\n", "outputs": "d\u02c8\u028cmiz"}
+{"grapheme": "dummy", "phoneme": "d \u028c m i\n", "outputs": "d\u02c8\u028cmi"}
+{"grapheme": "dunk", "phoneme": "d \u028c \u014b k\n", "outputs": "d\u02c8\u028c\u014bk"}
+{"grapheme": "duplication", "phoneme": "d j u p l \u026a k e \u026a \u0283 \u0259 n\n", "outputs": "dj\u02ccupl\u0259k\u02c8e\u026a\u0283\u0259n"}
+{"grapheme": "dust", "phoneme": "d \u028c s t\n", "outputs": "d\u02c8\u028cst"}
+{"grapheme": "dwarf", "phoneme": "d w \u0254 \u0279 f\n", "outputs": "dw\u02c8\u0254\u02d0\u0279f"}
+{"grapheme": "dynasty", "phoneme": "d a \u026a n \u0259 s t i\n", "outputs": "d\u02c8a\u026an\u0259sti"}
+{"grapheme": "earn", "phoneme": "\u025d n\n", "outputs": "\u02c8\u025an"}
+{"grapheme": "earned", "phoneme": "\u025d n d\n", "outputs": "\u02c8\u025and"}
+{"grapheme": "earns", "phoneme": "\u025d n z\n", "outputs": "\u02c8\u025anz"}
+{"grapheme": "easton", "phoneme": "i s t \u0259 n\n", "outputs": "\u02c8i\u02d0st\u0259n"}
+{"grapheme": "ecological", "phoneme": "i k \u0259 l \u0254 d\u0361\u0292 \u026a k l\u0329\n", "outputs": "ik\u0259l\u02c8\u0251\u02d0d\u0292\u026ak\u0259l"}
+{"grapheme": "ecuador", "phoneme": "\u025b k w \u0259 d \u0254 \u0279\n", "outputs": "\u02c8\u025bkw\u0259d\u02cc\u0254\u0279"}
+{"grapheme": "edgar", "phoneme": "\u025b d \u0261 \u025a\n", "outputs": "\u02c8\u025bdg\u025a"}
+{"grapheme": "eileen", "phoneme": "a \u026a l i n\n", "outputs": "a\u026al\u02c8i\u02d0n"}
+{"grapheme": "elder", "phoneme": "\u025b l d \u025a\n", "outputs": "\u02c8\u025bld\u025a"}
+{"grapheme": "elderly", "phoneme": "\u025b l d \u025a l i\n", "outputs": "\u02c8\u025bld\u025ali"}
+{"grapheme": "elders", "phoneme": "\u025b l d \u025a z\n", "outputs": "\u02c8\u025bld\u025az"}
+{"grapheme": "election", "phoneme": "\u0259 l \u025b k \u0283 \u0259 n\n", "outputs": "\u026al\u02c8\u025bk\u0283\u0259n"}
+{"grapheme": "electrical", "phoneme": "\u026a l \u025b k t \u0279 \u026a k \u0259 l\n", "outputs": "\u026al\u02c8\u025bkt\u0279\u026ak\u0259l"}
+{"grapheme": "elm", "phoneme": "\u025b l m\n", "outputs": "\u02c8\u025blm"}
+{"grapheme": "elusive", "phoneme": "\u026a l u s \u026a v\n", "outputs": "\u026al\u02c8u\u02d0s\u026av"}
+{"grapheme": "emerald", "phoneme": "\u025b m \u0259 \u0279 \u0259 l d\n", "outputs": "\u02c8\u025bm\u0279\u0259ld"}
+{"grapheme": "engagement", "phoneme": "\u026a n \u0261 e \u026a d\u0361\u0292 m \u0259 n t\n", "outputs": "\u025bng\u02c8e\u026ad\u0292m\u0259nt"}
+{"grapheme": "enhance", "phoneme": "\u026a n h \u00e6 n s\n", "outputs": "\u025bnh\u02c8\u00e6ns"}
+{"grapheme": "enthusiastic", "phoneme": "\u026a n \u03b8 u z i \u00e6 s t \u026a k\n", "outputs": "\u026an\u03b8\u02ccuzi\u02c8\u00e6st\u026ak"}
+{"grapheme": "enzyme", "phoneme": "\u025b n z a \u026a m\n", "outputs": "\u02c8\u025bnz\u02cca\u026am"}
+{"grapheme": "equally", "phoneme": "i k w \u0259 l i\n", "outputs": "\u02c8i\u02d0kw\u0259li"}
+{"grapheme": "equip", "phoneme": "\u026a k w \u026a p\n", "outputs": "\u026akw\u02c8\u026ap"}
+{"grapheme": "equipped", "phoneme": "\u026a k w \u026a p t\n", "outputs": "\u026akw\u02c8\u026apt"}
+{"grapheme": "erin", "phoneme": "\u025b \u0279 \u026a n\n", "outputs": "\u02c8\u025b\u0279\u026an"}
+{"grapheme": "erosion", "phoneme": "\u0259 \u0279 o \u028a \u0292 \u0259 n\n", "outputs": "\u026a\u0279\u02c8o\u028a\u0292\u0259n"}
+{"grapheme": "essentially", "phoneme": "\u026a s \u025b n \u0283 \u0259 l i\n", "outputs": "\u026as\u02c8\u025bn\u0283\u0259li"}
+{"grapheme": "estate", "phoneme": "\u026a s t e \u026a t\n", "outputs": "\u026ast\u02c8e\u026at"}
+{"grapheme": "estimation", "phoneme": "\u025b s t \u026a m e \u026a \u0283 \u0259 n\n", "outputs": "\u02cc\u025bst\u0259m\u02c8e\u026a\u0283\u0259n"}
+{"grapheme": "estonia", "phoneme": "\u025b s t o \u028a n i \u0259\n", "outputs": "\u025bst\u02c8o\u028ani\u0259"}
+{"grapheme": "europa", "phoneme": "j \u028a \u0279 o \u028a p \u0259\n", "outputs": "j\u028a\u0279\u02c8o\u028ap\u0259"}
+{"grapheme": "examined", "phoneme": "\u026a \u0261 z \u00e6 m \u026a n d\n", "outputs": "\u026agz\u02c8\u00e6m\u0259nd"}
+{"grapheme": "examining", "phoneme": "\u026a \u0261 z \u00e6 m \u026a n \u026a \u014b\n", "outputs": "\u026agz\u02c8\u00e6m\u026an\u026a\u014b"}
+{"grapheme": "exceed", "phoneme": "\u026a k s i d\n", "outputs": "\u026aks\u02c8i\u02d0d"}
+{"grapheme": "exceeding", "phoneme": "\u026a k s i d \u026a \u014b\n", "outputs": "\u026aks\u02c8i\u02d0d\u026a\u014b"}
+{"grapheme": "excel", "phoneme": "\u026a k s \u025b l\n", "outputs": "\u026aks\u02c8\u025bl"}
+{"grapheme": "exceptions", "phoneme": "\u0259 k s \u025b p \u0283 \u0259 n z\n", "outputs": "\u026aks\u02c8\u025bp\u0283\u0259nz"}
+{"grapheme": "excited", "phoneme": "\u026a k s a \u026a t \u026a d\n", "outputs": "\u026aks\u02c8a\u026at\u0259d"}
+{"grapheme": "exciting", "phoneme": "\u026a k s a \u026a t \u026a \u014b\n", "outputs": "\u026aks\u02c8a\u026at\u026a\u014b"}
+{"grapheme": "expansive", "phoneme": "\u026a k s p \u00e6 n s \u026a v\n", "outputs": "\u026aksp\u02c8\u00e6ns\u026av"}
+{"grapheme": "expectation", "phoneme": "\u025b k s p \u025b k t e \u026a \u0283 \u0259 n\n", "outputs": "\u02cc\u025bksp\u025bkt\u02c8e\u026a\u0283\u0259n"}
+{"grapheme": "experiential", "phoneme": "\u026a k s p \u026a \u0279 i \u025b n \u0283 \u0259 l\n", "outputs": "\u025bksp\u02cc\u025b\u0279i\u02c8\u025bn\u0283\u0259l"}
+{"grapheme": "explained", "phoneme": "\u026a k s p l e \u026a n d\n", "outputs": "\u026akspl\u02c8e\u026and"}
+{"grapheme": "exploration", "phoneme": "\u025b k s p l \u0259 \u0279 e \u026a \u0283 \u0259 n\n", "outputs": "\u02cc\u025bkspl\u025a\u02c8e\u026a\u0283\u0259n"}
+{"grapheme": "expressive", "phoneme": "\u026a k s p \u0279 \u025b s \u026a v\n", "outputs": "\u026aksp\u0279\u02c8\u025bs\u026av"}
+{"grapheme": "extras", "phoneme": "\u025b k s t \u0279 \u0259 z\n", "outputs": "\u02c8\u025bkst\u0279\u0259z"}
+{"grapheme": "eyebrows", "phoneme": "a \u026a b \u0279 a \u028a z\n", "outputs": "\u02c8a\u026ab\u0279\u02cca\u028az"}
+{"grapheme": "fa", "phoneme": "f \u0251\n", "outputs": "f\u02c8\u0251\u02d0"}
+{"grapheme": "facial", "phoneme": "f e \u026a \u0283 \u0259 l\n", "outputs": "f\u02c8e\u026a\u0283\u0259l"}
+{"grapheme": "fandom", "phoneme": "f \u00e6 n d \u0259 m\n", "outputs": "f\u02c8\u00e6nd\u0259m"}
+{"grapheme": "father", "phoneme": "f \u0251 \u00f0 \u025a\n", "outputs": "f\u02c8\u0251\u02d0\u00f0\u025a"}
+{"grapheme": "fathers", "phoneme": "f \u0251 \u00f0 \u025a z\n", "outputs": "f\u02c8\u0251\u02d0\u00f0\u025az"}
+{"grapheme": "fed", "phoneme": "f \u025b d\n", "outputs": "f\u02c8\u025bd"}
+{"grapheme": "feeding", "phoneme": "f i d \u026a \u014b\n", "outputs": "f\u02c8i\u02d0d\u026a\u014b"}
+{"grapheme": "fictional", "phoneme": "f \u026a k \u0283 \u0259 n \u0259 l\n", "outputs": "f\u02c8\u026ak\u0283\u0259n\u0259l"}
+{"grapheme": "fifty", "phoneme": "f \u026a f t i\n", "outputs": "f\u02c8\u026afti"}
+{"grapheme": "filler", "phoneme": "f \u026a l \u0259 \u0279\n", "outputs": "f\u02c8\u026al\u025a"}
+{"grapheme": "fin", "phoneme": "f \u026a n\n", "outputs": "f\u02c8\u026an"}
+{"grapheme": "final", "phoneme": "f a \u026a n \u0259 l\n", "outputs": "f\u02c8a\u026an\u0259l"}
+{"grapheme": "firm", "phoneme": "f \u025c \u0279 m\n", "outputs": "f\u02c8\u025am"}
+{"grapheme": "firstly", "phoneme": "f \u025c \u0279 s t l i\n", "outputs": "f\u02c8\u025astli"}
+{"grapheme": "fitness", "phoneme": "f \u026a t n \u0259 s\n", "outputs": "f\u02c8\u026atn\u0259s"}
+{"grapheme": "flawless", "phoneme": "f l \u0254 l \u0259 s\n", "outputs": "fl\u02c8\u0254\u02d0l\u0259s"}
+{"grapheme": "flint", "phoneme": "f l \u026a n t\n", "outputs": "fl\u02c8\u026ant"}
+{"grapheme": "foolish", "phoneme": "f u l \u026a \u0283\n", "outputs": "f\u02c8u\u02d0l\u026a\u0283"}
+{"grapheme": "formation", "phoneme": "f \u0254 \u0279 m e \u026a \u0283 \u0259 n\n", "outputs": "f\u0254\u0279m\u02c8e\u026a\u0283\u0259n"}
+{"grapheme": "fraction", "phoneme": "f \u0279 \u00e6 k \u0283 \u0259 n\n", "outputs": "f\u0279\u02c8\u00e6k\u0283\u0259n"}
+{"grapheme": "frances", "phoneme": "f \u0279 \u00e6 n s \u026a z\n", "outputs": "f\u0279\u02c8\u00e6ns\u026as"}
+{"grapheme": "frederick", "phoneme": "f \u0279 \u025b d \u0259 \u0279 \u026a k\n", "outputs": "f\u0279\u02c8\u025bd\u0279\u026ak"}
+{"grapheme": "freshman", "phoneme": "f \u0279 \u025b \u0283 m \u0259 n\n", "outputs": "f\u0279\u02c8\u025b\u0283m\u0259n"}
+{"grapheme": "frost", "phoneme": "f \u0279 \u0254 s t\n", "outputs": "f\u0279\u02c8\u0254\u02d0st"}
+{"grapheme": "frustration", "phoneme": "f \u0279 \u028c s t \u0279 e \u026a \u0283 \u0259 n\n", "outputs": "f\u0279\u0259st\u0279\u02c8e\u026a\u0283\u0259n"}
+{"grapheme": "fullest", "phoneme": "f \u028a l \u0259 s t\n", "outputs": "f\u02c8\u028al\u0259st"}
+{"grapheme": "furnished", "phoneme": "f \u025d n \u026a \u0283 t\n", "outputs": "f\u02c8\u025an\u026a\u0283t"}
+{"grapheme": "fuse", "phoneme": "f j u z\n", "outputs": "fj\u02c8u\u02d0z"}
+{"grapheme": "fuses", "phoneme": "f j u z \u026a z\n", "outputs": "fj\u02c8u\u02d0z\u0259z"}
+{"grapheme": "fyi", "phoneme": "\u025b f w a \u026a a \u026a\n", "outputs": "f\u02c8a\u026a"}
+{"grapheme": "gaga", "phoneme": "\u0261 \u0251 \u0261 \u0251\n", "outputs": "g\u02c8e\u026ag\u0259"}
+{"grapheme": "galore", "phoneme": "\u0261 \u0259 l \u0254 \u0279\n", "outputs": "g\u0259l\u02c8\u0254\u02d0\u0279"}
+{"grapheme": "game", "phoneme": "\u0261 e \u026a m\n", "outputs": "g\u02c8e\u026am"}
+{"grapheme": "games", "phoneme": "\u0261 e \u026a m z\n", "outputs": "g\u02c8e\u026amz"}
+{"grapheme": "gaming", "phoneme": "\u0261 e \u026a m \u026a \u014b\n", "outputs": "g\u02c8e\u026am\u026a\u014b"}
+{"grapheme": "gaping", "phoneme": "\u0261 e \u026a p \u026a \u014b\n", "outputs": "g\u02c8e\u026ap\u026a\u014b"}
+{"grapheme": "genre", "phoneme": "d\u0361\u0292 \u0251 n \u0279 \u0259\n", "outputs": "\u0292\u02c8\u0251\u02d0n\u0279\u0259"}
+{"grapheme": "ghetto", "phoneme": "\u0261 \u025b t o \u028a\n", "outputs": "g\u02c8\u025bto\u028a"}
+{"grapheme": "gift", "phoneme": "\u0261 \u026a f t\n", "outputs": "g\u02c8\u026aft"}
+{"grapheme": "gifted", "phoneme": "\u0261 \u026a f t \u026a d\n", "outputs": "g\u02c8\u026aft\u0259d"}
+{"grapheme": "gifting", "phoneme": "\u0261 \u026a f t \u026a \u014b\n", "outputs": "g\u02c8\u026aft\u026a\u014b"}
+{"grapheme": "gifts", "phoneme": "\u0261 \u026a f t s\n", "outputs": "g\u02c8\u026afts"}
+{"grapheme": "gingerbread", "phoneme": "d\u0361\u0292 \u026a n d\u0361\u0292 \u025a b \u0279 \u025b d\n", "outputs": "d\u0292\u02c8\u026and\u0292\u025ab\u0279\u02cc\u025bd"}
+{"grapheme": "girls", "phoneme": "\u0261 \u025d l z\n", "outputs": "g\u02c8\u025alz"}
+{"grapheme": "glaze", "phoneme": "\u0261 l e \u026a z\n", "outputs": "gl\u02c8e\u026az"}
+{"grapheme": "glazed", "phoneme": "\u0261 l e \u026a z d\n", "outputs": "gl\u02c8e\u026azd"}
+{"grapheme": "glazing", "phoneme": "\u0261 l e \u026a z \u026a \u014b\n", "outputs": "gl\u02c8e\u026az\u026a\u014b"}
+{"grapheme": "glimpse", "phoneme": "\u0261 l \u026a m p s\n", "outputs": "gl\u02c8\u026amps"}
+{"grapheme": "global", "phoneme": "\u0261 l o \u028a b \u0259 l\n", "outputs": "gl\u02c8o\u028ab\u0259l"}
+{"grapheme": "glory", "phoneme": "\u0261 l \u0254 \u0279 i\n", "outputs": "gl\u02c8\u0254\u02d0\u0279i"}
+{"grapheme": "gotta", "phoneme": "\u0261 \u0251 t \u0259\n", "outputs": "g\u02c8\u0251\u02d0t\u0259"}
+{"grapheme": "gov", "phoneme": "\u0261 \u028c v\n", "outputs": "g\u02c8\u028cv"}
+{"grapheme": "governments", "phoneme": "\u0261 \u028c v \u025a n m \u0259 n t s\n", "outputs": "g\u02c8\u028cv\u025am\u0259nts"}
+{"grapheme": "grace", "phoneme": "\u0261 \u0279 e \u026a s\n", "outputs": "g\u0279\u02c8e\u026as"}
+{"grapheme": "greatest", "phoneme": "\u0261 \u0279 e \u026a t \u025b s t\n", "outputs": "g\u0279\u02c8e\u026at\u0259st"}
+{"grapheme": "greatly", "phoneme": "\u0261 \u0279 e \u026a t l i\n", "outputs": "g\u0279\u02c8e\u026atli"}
+{"grapheme": "group", "phoneme": "\u0261 \u0279 u p\n", "outputs": "g\u0279\u02c8u\u02d0p"}
+{"grapheme": "grouped", "phoneme": "\u0261 \u0279 u p t\n", "outputs": "g\u0279\u02c8u\u02d0pt"}
+{"grapheme": "grouping", "phoneme": "\u0261 \u0279 u p \u026a \u014b\n", "outputs": "g\u0279\u02c8u\u02d0p\u026a\u014b"}
+{"grapheme": "groups", "phoneme": "\u0261 \u0279 u p s\n", "outputs": "g\u0279\u02c8u\u02d0ps"}
+{"grapheme": "guide", "phoneme": "\u0261 a \u026a d\n", "outputs": "g\u02c8a\u026ad"}
+{"grapheme": "guided", "phoneme": "\u0261 a \u026a d \u026a d\n", "outputs": "g\u02c8a\u026ad\u0259d"}
+{"grapheme": "guides", "phoneme": "\u0261 a \u026a d z\n", "outputs": "g\u02c8a\u026adz"}
+{"grapheme": "guiding", "phoneme": "\u0261 a \u026a d \u026a \u014b\n", "outputs": "g\u02c8a\u026ad\u026a\u014b"}
+{"grapheme": "guilt", "phoneme": "\u0261 \u026a l t\n", "outputs": "g\u02c8\u026alt"}
+{"grapheme": "gym", "phoneme": "d\u0361\u0292 \u026a m\n", "outputs": "d\u0292\u02c8\u026am"}
+{"grapheme": "gyms", "phoneme": "d\u0361\u0292 \u026a m z\n", "outputs": "d\u0292\u02c8\u026amz"}
+{"grapheme": "halfway", "phoneme": "h \u00e6 f w e \u026a\n", "outputs": "h\u02c8\u00e6fw\u02c8e\u026a"}
+{"grapheme": "ham", "phoneme": "h \u00e6 m\n", "outputs": "h\u02c8\u00e6m"}
+{"grapheme": "hand", "phoneme": "h \u00e6 n d\n", "outputs": "h\u02c8\u00e6nd"}
+{"grapheme": "handed", "phoneme": "h \u00e6 n d \u026a d\n", "outputs": "h\u02c8\u00e6nd\u0259d"}
+{"grapheme": "handing", "phoneme": "h \u00e6 n d \u026a \u014b\n", "outputs": "h\u02c8\u00e6nd\u026a\u014b"}
+{"grapheme": "handler", "phoneme": "h \u00e6 n d l \u025a\n", "outputs": "h\u02c8\u00e6ndl\u025a"}
+{"grapheme": "hands", "phoneme": "h \u00e6 n d z\n", "outputs": "h\u02c8\u00e6ndz"}
+{"grapheme": "hannah", "phoneme": "h \u00e6 n \u0259\n", "outputs": "h\u02c8\u00e6n\u0259"}
+{"grapheme": "hanover", "phoneme": "h \u00e6 n o \u028a v \u025a\n", "outputs": "h\u02c8\u00e6no\u028av\u025a"}
+{"grapheme": "happen", "phoneme": "h \u00e6 p \u0259 n\n", "outputs": "h\u02c8\u00e6p\u0259n"}
+{"grapheme": "happened", "phoneme": "h \u00e6 p \u0259 n d\n", "outputs": "h\u02c8\u00e6p\u0259nd"}
+{"grapheme": "happens", "phoneme": "h \u00e6 p \u0259 n z\n", "outputs": "h\u02c8\u00e6p\u0259nz"}
+{"grapheme": "hard", "phoneme": "h \u0251 \u0279 d\n", "outputs": "h\u02c8\u0251\u02d0\u0279d"}
+{"grapheme": "hardly", "phoneme": "h \u0251 \u0279 d l i\n", "outputs": "h\u02c8\u0251\u02d0\u0279dli"}
+{"grapheme": "harmful", "phoneme": "h \u0251 \u0279 m f l\u0329\n", "outputs": "h\u02c8\u0251\u02d0\u0279mf\u0259l"}
+{"grapheme": "hatch", "phoneme": "h \u00e6 t\u0361\u0283\n", "outputs": "h\u02c8\u00e6t\u0283"}
+{"grapheme": "havana", "phoneme": "h \u0259 v \u00e6 n \u0259\n", "outputs": "h\u0259v\u02c8\u00e6n\u0259"}
+{"grapheme": "head", "phoneme": "h \u025b d\n", "outputs": "h\u02c8\u025bd"}
+{"grapheme": "headed", "phoneme": "h \u025b d \u026a d\n", "outputs": "h\u02c8\u025bd\u0259d"}
+{"grapheme": "heading", "phoneme": "h \u025b d \u026a \u014b\n", "outputs": "h\u02c8\u025bd\u026a\u014b"}
+{"grapheme": "heads", "phoneme": "h \u025b d z\n", "outputs": "h\u02c8\u025bdz"}
+{"grapheme": "heartbeat", "phoneme": "h \u0251 \u0279 t b i t\n", "outputs": "h\u02c8\u0251\u02d0\u0279tb\u02ccit"}
+{"grapheme": "helm", "phoneme": "h \u025b l m\n", "outputs": "h\u02c8\u025blm"}
+{"grapheme": "helper", "phoneme": "h \u025b l p \u025a\n", "outputs": "h\u02c8\u025blp\u025a"}
+{"grapheme": "helpful", "phoneme": "h \u025b l p f \u0259 l\n", "outputs": "h\u02c8\u025blpf\u0259l"}
+{"grapheme": "hemp", "phoneme": "h \u025b m p\n", "outputs": "h\u02c8\u025bmp"}
+{"grapheme": "henry", "phoneme": "h \u025b n \u0279 i\n", "outputs": "h\u02c8\u025bn\u0279i"}
+{"grapheme": "heroic", "phoneme": "h \u026a \u0279 o \u028a \u026a k\n", "outputs": "h\u026a\u0279\u02c8o\u028a\u026ak"}
+{"grapheme": "hesitation", "phoneme": "h \u025b z \u026a t e \u026a \u0283 \u0259 n\n", "outputs": "h\u02cc\u025bz\u0259t\u02c8e\u026a\u0283\u0259n"}
+{"grapheme": "het", "phoneme": "h \u025b t\n", "outputs": "h\u02c8\u025bt"}
+{"grapheme": "highly", "phoneme": "h a \u026a l i\n", "outputs": "h\u02c8a\u026ali"}
+{"grapheme": "hill", "phoneme": "h \u026a l\n", "outputs": "h\u02c8\u026al"}
+{"grapheme": "hills", "phoneme": "h \u026a l z\n", "outputs": "h\u02c8\u026alz"}
+{"grapheme": "hilton", "phoneme": "h \u026a l t \u0259 n\n", "outputs": "h\u02c8\u026alt\u0259n"}
+{"grapheme": "hint", "phoneme": "h \u026a n t\n", "outputs": "h\u02c8\u026ant"}
+{"grapheme": "hints", "phoneme": "h \u026a n t s\n", "outputs": "h\u02c8\u026ants"}
+{"grapheme": "historians", "phoneme": "h \u026a s t \u0254 \u0279 i \u0259 n z\n", "outputs": "h\u026ast\u02c8\u0254\u02d0\u0279i\u0259nz"}
+{"grapheme": "hiv", "phoneme": "e \u026a t\u0361\u0283 a \u026a v i\n", "outputs": "h\u02c8\u026av"}
+{"grapheme": "hoa", "phoneme": "h o \u028a\n", "outputs": "h\u02c8o\u028a\u0259"}
+{"grapheme": "holly", "phoneme": "h \u0251 l i\n", "outputs": "h\u02c8\u0251\u02d0li"}
+{"grapheme": "homes", "phoneme": "h o \u028a m z\n", "outputs": "h\u02c8o\u028amz"}
+{"grapheme": "hood", "phoneme": "h \u028a d\n", "outputs": "h\u02c8\u028ad"}
+{"grapheme": "hooded", "phoneme": "h \u028a d \u026a d\n", "outputs": "h\u02c8\u028ad\u026ad"}
+{"grapheme": "hoods", "phoneme": "h \u028a d z\n", "outputs": "h\u02c8\u028adz"}
+{"grapheme": "hooker", "phoneme": "h \u028a k \u025a\n", "outputs": "h\u02c8\u028ak\u025a"}
+{"grapheme": "hopeful", "phoneme": "h o \u028a p f \u0259 l\n", "outputs": "h\u02c8o\u028apf\u0259l"}
+{"grapheme": "hormone", "phoneme": "h \u0254 \u0279 m o \u028a n\n", "outputs": "h\u02c8\u0254\u02d0\u0279m\u02cco\u028an"}
+{"grapheme": "hose", "phoneme": "h o \u028a z\n", "outputs": "h\u02c8o\u028az"}
+{"grapheme": "hoses", "phoneme": "h o \u028a z \u026a z\n", "outputs": "h\u02c8o\u028az\u026az"}
+{"grapheme": "hospitality", "phoneme": "h \u0251 s p \u026a t \u00e6 l \u026a t i\n", "outputs": "h\u02cc\u0251sp\u0259t\u02c8\u00e6l\u0259ti"}
+{"grapheme": "hourly", "phoneme": "a \u028a\u032f \u025a l i\n", "outputs": "\u02c8a\u028a\u0279li"}
+{"grapheme": "housed", "phoneme": "h a \u028a z d\n", "outputs": "h\u02c8a\u028azd"}
+{"grapheme": "housing", "phoneme": "h a \u028a z \u026a \u014b\n", "outputs": "h\u02c8a\u028az\u026a\u014b"}
+{"grapheme": "hover", "phoneme": "h \u028c v \u025a\n", "outputs": "h\u02c8\u028cv\u025a"}
+{"grapheme": "hunt", "phoneme": "h \u028c n t\n", "outputs": "h\u02c8\u028cnt"}
+{"grapheme": "hunting", "phoneme": "h \u028c n t \u026a \u014b\n", "outputs": "h\u02c8\u028cnt\u026a\u014b"}
+{"grapheme": "husband", "phoneme": "h \u028c z b \u0259 n d\n", "outputs": "h\u02c8\u028czb\u0259nd"}
+{"grapheme": "husbands", "phoneme": "h \u028c z b \u0259 n d z\n", "outputs": "h\u02c8\u028czb\u0259ndz"}
+{"grapheme": "hutchinson", "phoneme": "h \u028c t\u0361\u0283 \u026a n s \u0259 n\n", "outputs": "h\u02c8\u028ct\u0283\u026ans\u0259n"}
+{"grapheme": "iceberg", "phoneme": "a \u026a s b \u025d \u0261\n", "outputs": "\u02c8a\u026asb\u025ag"}
+{"grapheme": "idaho", "phoneme": "a \u026a d \u0259 h o \u028a\n", "outputs": "\u02c8a\u026ad\u0259h\u02cco\u028a"}
+{"grapheme": "idle", "phoneme": "a \u026a d \u0259 l\n", "outputs": "\u02c8a\u026ad\u0259l"}
+{"grapheme": "immunity", "phoneme": "\u026a m j u n \u0259 t i\n", "outputs": "\u026amj\u02c8u\u02d0n\u0259ti"}
+{"grapheme": "impeachment", "phoneme": "i m p i t\u0361\u0283 m \u0259 n t\n", "outputs": "\u026amp\u02c8i\u02d0t\u0283m\u0259nt"}
+{"grapheme": "impeccable", "phoneme": "\u026a m p \u025b k \u0259 b \u0259 l\n", "outputs": "\u026amp\u02c8\u025bk\u0259b\u0259l"}
+{"grapheme": "import", "phoneme": "\u026a m p \u0254 \u0279 t\n", "outputs": "\u02c8\u026amp\u02cc\u0254\u0279t"}
+{"grapheme": "importance", "phoneme": "\u026a m p \u0254 \u0279 t \u0259 n s\n", "outputs": "\u026amp\u02c8\u0254\u02d0\u0279t\u0259ns"}
+{"grapheme": "imported", "phoneme": "\u026a m p \u0254 \u0279 t \u026a d\n", "outputs": "\u026amp\u02c8\u0254\u02d0\u0279t\u026ad"}
+{"grapheme": "impressed", "phoneme": "\u026a m p \u0279 \u025b s t\n", "outputs": "\u026amp\u0279\u02c8\u025bst"}
+{"grapheme": "incidents", "phoneme": "\u026a n s \u026a d \u0259 n t s\n", "outputs": "\u02c8\u026ans\u0259d\u0259nts"}
+{"grapheme": "include", "phoneme": "\u026a n k l u d\n", "outputs": "\u026ankl\u02c8u\u02d0d"}
+{"grapheme": "included", "phoneme": "\u026a n k l u d \u026a d\n", "outputs": "\u026ankl\u02c8u\u02d0d\u0259d"}
+{"grapheme": "includes", "phoneme": "\u026a n k l u d z\n", "outputs": "\u026ankl\u02c8u\u02d0dz"}
+{"grapheme": "inclusive", "phoneme": "\u026a n k l u s \u026a v\n", "outputs": "\u026ankl\u02c8u\u02d0s\u026av"}
+{"grapheme": "indies", "phoneme": "\u026a n d i z\n", "outputs": "\u02c8\u026andiz"}
+{"grapheme": "induction", "phoneme": "\u026a n d \u028c k \u0283 \u0259 n\n", "outputs": "\u026and\u02c8\u028ck\u0283\u0259n"}
+{"grapheme": "infection", "phoneme": "\u026a n f \u025b k \u0283 \u0259 n\n", "outputs": "\u026anf\u02c8\u025bk\u0283\u0259n"}
+{"grapheme": "inflammation", "phoneme": "\u026a n f l \u0259 m e \u026a \u0283 \u0259 n\n", "outputs": "\u02cc\u026anfl\u0259m\u02c8e\u026a\u0283\u0259n"}
+{"grapheme": "inhabitants", "phoneme": "\u026a n h \u00e6 b \u026a t \u0259 n t s\n", "outputs": "\u026anh\u02c8\u00e6b\u0259t\u0259nts"}
+{"grapheme": "inquire", "phoneme": "\u026a n k w a \u026a \u0279\n", "outputs": "\u026ankw\u02c8a\u026a\u0279"}
+{"grapheme": "ins", "phoneme": "\u026a n z\n", "outputs": "\u02c8\u026anz"}
+{"grapheme": "instructed", "phoneme": "\u026a n s t \u0279 \u028c k t \u026a d\n", "outputs": "\u026anst\u0279\u02c8\u028ckt\u0259d"}
+{"grapheme": "intelligent", "phoneme": "\u026a n t \u025b l \u026a d\u0361\u0292 \u0259 n t\n", "outputs": "\u026ant\u02c8\u025bl\u0259d\u0292\u0259nt"}
+{"grapheme": "intention", "phoneme": "\u026a n t \u025b n \u0283 \u0259 n\n", "outputs": "\u026ant\u02c8\u025bnt\u0283\u0259n"}
+{"grapheme": "interior", "phoneme": "\u026a n t \u026a \u0279 i \u025a\n", "outputs": "\u026ant\u02c8\u026a\u0279i\u025a"}
+{"grapheme": "invest", "phoneme": "\u026a n v \u025b s t\n", "outputs": "\u026anv\u02c8\u025bst"}
+{"grapheme": "invested", "phoneme": "\u026a n v \u025b s t \u026a d\n", "outputs": "\u026anv\u02c8\u025bst\u0259d"}
+{"grapheme": "invite", "phoneme": "\u026a n v a \u026a t\n", "outputs": "\u02c8\u026anva\u026at"}
+{"grapheme": "invited", "phoneme": "\u026a n v a \u026a t \u026a d\n", "outputs": "\u026anv\u02c8a\u026at\u0259d"}
+{"grapheme": "inviting", "phoneme": "\u026a n v a \u026a t \u026a \u014b\n", "outputs": "\u026anv\u02c8a\u026at\u026a\u014b"}
+{"grapheme": "ireland", "phoneme": "a \u026a \u0259 \u0279 l \u0259 n d\n", "outputs": "\u02c8a\u026a\u025al\u0259nd"}
+{"grapheme": "irs", "phoneme": "a \u026a \u0251 \u0279 \u025b s\n", "outputs": "\u02c8\u025az"}
+{"grapheme": "irwin", "phoneme": "\u025d w \u026a n\n", "outputs": "\u02c8\u025aw\u0259n"}
+{"grapheme": "issue", "phoneme": "\u026a \u0283 j u\n", "outputs": "\u02c8\u026a\u0283u"}
+{"grapheme": "jade", "phoneme": "d\u0361\u0292 e \u026a d\n", "outputs": "d\u0292\u02c8e\u026ad"}
+{"grapheme": "jay", "phoneme": "d\u0361\u0292 e \u026a\n", "outputs": "d\u0292\u02c8e\u026a"}
+{"grapheme": "jefferson", "phoneme": "d\u0361\u0292 \u025b f \u025a s \u0259 n\n", "outputs": "d\u0292\u02c8\u025bf\u025as\u0259n"}
+{"grapheme": "jimmy", "phoneme": "d\u0361\u0292 \u026a m i\n", "outputs": "d\u0292\u02c8\u026ami"}
+{"grapheme": "joel", "phoneme": "d\u0361\u0292 o \u028a \u0259 l\n", "outputs": "d\u0292\u02c8o\u028a\u0259l"}
+{"grapheme": "joey", "phoneme": "d\u0361\u0292 o \u028a i\n", "outputs": "d\u0292\u02c8o\u028ai"}
+{"grapheme": "journey", "phoneme": "d\u0361\u0292 \u025d n i\n", "outputs": "d\u0292\u02c8\u025ani"}
+{"grapheme": "joy", "phoneme": "d\u0361\u0292 \u0254 \u026a\n", "outputs": "d\u0292\u02c8\u0254\u026a"}
+{"grapheme": "joys", "phoneme": "d\u0361\u0292 \u0254 \u026a z\n", "outputs": "d\u0292\u02c8\u0254\u026az"}
+{"grapheme": "judy", "phoneme": "d\u0361\u0292 u d i\n", "outputs": "d\u0292\u02c8u\u02d0di"}
+{"grapheme": "jumbo", "phoneme": "d\u0361\u0292 \u028c m b o \u028a\n", "outputs": "d\u0292\u02c8\u028cmbo\u028a"}
+{"grapheme": "kelly", "phoneme": "k \u025b l i\n", "outputs": "k\u02c8\u025bli"}
+{"grapheme": "kenny", "phoneme": "k \u025b n i\n", "outputs": "k\u02c8\u025bni"}
+{"grapheme": "kerala", "phoneme": "k \u025b \u0279 \u0259 l \u0259\n", "outputs": "k\u02cc\u025b\u0279\u02c8\u0251\u02d0l\u0259"}
+{"grapheme": "kernel", "phoneme": "k \u025d n \u0259 l\n", "outputs": "k\u02c8\u025an\u0259l"}
+{"grapheme": "kick", "phoneme": "k \u026a k\n", "outputs": "k\u02c8\u026ak"}
+{"grapheme": "kicked", "phoneme": "k \u026a k t\n", "outputs": "k\u02c8\u026akt"}
+{"grapheme": "kicking", "phoneme": "k \u026a k \u026a \u014b\n", "outputs": "k\u02c8\u026ak\u026a\u014b"}
+{"grapheme": "kicks", "phoneme": "k \u026a k s\n", "outputs": "k\u02c8\u026aks"}
+{"grapheme": "kim", "phoneme": "k \u026a m\n", "outputs": "k\u02c8\u026am"}
+{"grapheme": "kin", "phoneme": "k \u026a n\n", "outputs": "k\u02c8\u026an"}
+{"grapheme": "kirsten", "phoneme": "k \u025c r s t \u0259 n\n", "outputs": "k\u02c8\u025ast\u0259n"}
+{"grapheme": "knives", "phoneme": "n a \u026a v z\n", "outputs": "n\u02c8a\u026avz"}
+{"grapheme": "kramer", "phoneme": "k \u0279 e \u026a m \u025a\n", "outputs": "k\u0279\u02c8e\u026am\u025a"}
+{"grapheme": "lab", "phoneme": "l \u00e6 b\n", "outputs": "l\u02c8\u00e6b"}
+{"grapheme": "lanes", "phoneme": "l e \u026a n z\n", "outputs": "l\u02c8e\u026anz"}
+{"grapheme": "later", "phoneme": "l e \u026a t \u025a\n", "outputs": "l\u02c8e\u026at\u025a"}
+{"grapheme": "lavish", "phoneme": "l \u00e6 v \u026a \u0283\n", "outputs": "l\u02c8\u00e6v\u026a\u0283"}
+{"grapheme": "lawn", "phoneme": "l \u0254 n\n", "outputs": "l\u02c8\u0254\u02d0n"}
+{"grapheme": "lax", "phoneme": "l \u00e6 k s\n", "outputs": "l\u02c8\u00e6ks"}
+{"grapheme": "learn", "phoneme": "l \u025d n\n", "outputs": "l\u02c8\u025an"}
+{"grapheme": "learning", "phoneme": "l \u025d n \u026a \u014b\n", "outputs": "l\u02c8\u025an\u026a\u014b"}
+{"grapheme": "learnt", "phoneme": "l \u025d n t\n", "outputs": "l\u02c8\u025ant"}
+{"grapheme": "lecturer", "phoneme": "l \u025b k t\u0361\u0283 \u0259 \u0279 \u025a\n", "outputs": "l\u02c8\u025bkt\u0283\u025a\u025a"}
+{"grapheme": "legally", "phoneme": "l i \u0261 \u0259 l i\n", "outputs": "l\u02c8i\u02d0g\u0259li"}
+{"grapheme": "lemonade", "phoneme": "l \u025b m \u0259 n e \u026a d\n", "outputs": "l\u02c8\u025bm\u0259n\u02c8e\u026ad"}
+{"grapheme": "lens", "phoneme": "l \u025b n z\n", "outputs": "l\u02c8\u025bnz"}
+{"grapheme": "lenses", "phoneme": "l \u025b n z \u026a z\n", "outputs": "l\u02c8\u025bnz\u0259z"}
+{"grapheme": "lester", "phoneme": "l \u025b s t \u025a\n", "outputs": "l\u02c8\u025bst\u025a"}
+{"grapheme": "liar", "phoneme": "l a \u026a \u025a\n", "outputs": "l\u02c8a\u026a\u025a"}
+{"grapheme": "liberal", "phoneme": "l \u026a b \u0259 \u0279 \u0259 l\n", "outputs": "l\u02c8\u026ab\u025a\u0259l"}
+{"grapheme": "liberty", "phoneme": "l \u026a b \u025a t i\n", "outputs": "l\u02c8\u026ab\u025ati"}
+{"grapheme": "liner", "phoneme": "l a \u026a n \u0259\n", "outputs": "l\u02c8a\u026an\u025a"}
+{"grapheme": "literal", "phoneme": "l \u026a t \u0259 \u0279 \u0259 l\n", "outputs": "l\u02c8\u026at\u025a\u0259l"}
+{"grapheme": "lithium", "phoneme": "l \u026a \u03b8 i \u0259 m\n", "outputs": "l\u02c8\u026a\u03b8i\u0259m"}
+{"grapheme": "locate", "phoneme": "l o \u028a k e \u026a t\n", "outputs": "l\u02c8o\u028ak\u02cce\u026at"}
+{"grapheme": "located", "phoneme": "l o \u028a k e \u026a t \u026a d\n", "outputs": "l\u02c8o\u028ak\u02cce\u026at\u0259d"}
+{"grapheme": "lodge", "phoneme": "l \u0251 d\u0361\u0292\n", "outputs": "l\u02c8\u0251\u02d0d\u0292"}
+{"grapheme": "lodging", "phoneme": "l \u0251 d\u0361\u0292 \u026a \u014b\n", "outputs": "l\u02c8\u0251\u02d0d\u0292\u026a\u014b"}
+{"grapheme": "loneliness", "phoneme": "l o \u028a n l i n \u0259 s\n", "outputs": "l\u02c8o\u028anlin\u0259s"}
+{"grapheme": "lonely", "phoneme": "l o \u028a n l i\n", "outputs": "l\u02c8o\u028anli"}
+{"grapheme": "lucky", "phoneme": "l \u028c k i\n", "outputs": "l\u02c8\u028cki"}
+{"grapheme": "lynch", "phoneme": "l \u026a n t\u0361\u0283\n", "outputs": "l\u02c8\u026ant\u0283"}
+{"grapheme": "lyric", "phoneme": "l \u026a \u0279 \u026a k\n", "outputs": "l\u02c8\u026a\u0279\u026ak"}
+{"grapheme": "macedonia", "phoneme": "m \u00e6 s \u0259 d o \u028a n i \u0259\n", "outputs": "m\u02cc\u00e6s\u0259d\u02c8o\u028ani\u0259"}
+{"grapheme": "machinery", "phoneme": "m \u0259 \u0283 i n \u0259 \u0279 i\n", "outputs": "m\u0259\u0283\u02c8i\u02d0n\u025ai"}
+{"grapheme": "magazines", "phoneme": "m \u00e6 \u0261 \u0259 z i n z\n", "outputs": "m\u02c8\u00e6g\u0259z\u02ccinz"}
+{"grapheme": "magnet", "phoneme": "m \u00e6 \u0261 n \u0259 t\n", "outputs": "m\u02c8\u00e6gn\u0259t"}
+{"grapheme": "management", "phoneme": "m \u00e6 n \u0259 d\u0361\u0292 m \u0259 n t\n", "outputs": "m\u02c8\u00e6n\u0259d\u0292m\u0259nt"}
+{"grapheme": "mandate", "phoneme": "m \u00e6 n d e \u026a t\n", "outputs": "m\u02cc\u00e6nd\u02c8e\u026at"}
+{"grapheme": "manicure", "phoneme": "m \u00e6 n \u026a k j \u028a \u0279\n", "outputs": "m\u02c8\u00e6n\u026akj\u025a"}
+{"grapheme": "maple", "phoneme": "m e \u026a p l\u0329\n", "outputs": "m\u02c8e\u026ap\u0259l"}
+{"grapheme": "mara", "phoneme": "m \u0251 \u0279 \u0259\n", "outputs": "m\u02c8\u0251\u02d0\u0279\u0259"}
+{"grapheme": "marathi", "phoneme": "m \u0259 \u0279 \u0251 t i\n", "outputs": "m\u0259\u0279\u02c8\u0251\u02d0ti"}
+{"grapheme": "marital", "phoneme": "m \u00e6 \u0279 \u026a t \u0259 l\n", "outputs": "m\u02c8\u025b\u0279\u0259t\u0259l"}
+{"grapheme": "market", "phoneme": "m \u0251 \u0279 k \u026a t\n", "outputs": "m\u02c8\u0251\u02d0\u0279k\u0259t"}
+{"grapheme": "markets", "phoneme": "m \u0251 \u0279 k \u026a t s\n", "outputs": "m\u02c8\u0251\u02d0\u0279k\u0259ts"}
+{"grapheme": "mascot", "phoneme": "m \u00e6 s k \u0251 t\n", "outputs": "m\u02c8\u00e6sk\u0259t"}
+{"grapheme": "massey", "phoneme": "m \u00e6 s i\n", "outputs": "m\u02c8\u00e6si"}
+{"grapheme": "material", "phoneme": "m \u0259 t \u026a \u0279 i \u0259 l\n", "outputs": "m\u0259t\u02c8\u026a\u0279i\u0259l"}
+{"grapheme": "materials", "phoneme": "m \u0259 t \u026a \u0279 i \u0259 l z\n", "outputs": "m\u0259t\u02c8\u026a\u0279i\u0259lz"}
+{"grapheme": "maternity", "phoneme": "m \u0259 t \u025c \u0279 n \u026a t i\n", "outputs": "m\u0259t\u02c8\u025an\u026ati"}
+{"grapheme": "matthew", "phoneme": "m \u00e6 \u03b8 j u\n", "outputs": "m\u02c8\u00e6\u03b8ju"}
+{"grapheme": "maturity", "phoneme": "m \u0259 t \u028a \u0259 \u0279 \u0259 t i\n", "outputs": "m\u0259t\u0283\u02c8\u028a\u0279\u0259ti"}
+{"grapheme": "maya", "phoneme": "m a \u026a \u0259\n", "outputs": "m\u02c8a\u026a\u0259"}
+{"grapheme": "meaningful", "phoneme": "m i n \u026a \u014b f \u028a l\n", "outputs": "m\u02c8i\u02d0n\u026a\u014bf\u0259l"}
+{"grapheme": "mechanism", "phoneme": "m \u025b k \u0259 n \u026a z m\n", "outputs": "m\u02c8\u025bk\u0259n\u02cc\u026az\u0259m"}
+{"grapheme": "memorable", "phoneme": "m \u025b m \u0259 \u0279 \u0259 b l\u0329\n", "outputs": "m\u02c8\u025bm\u025a\u0259b\u0259l"}
+{"grapheme": "mesh", "phoneme": "m \u025b \u0283\n", "outputs": "m\u02c8\u025b\u0283"}
+{"grapheme": "messy", "phoneme": "m \u025b s i\n", "outputs": "m\u02c8\u025bsi"}
+{"grapheme": "migrant", "phoneme": "m a \u026a \u0261 \u0279 \u0259 n t\n", "outputs": "m\u02c8a\u026ag\u0279\u0259nt"}
+{"grapheme": "mike", "phoneme": "m a \u026a k\n", "outputs": "m\u02c8a\u026ak"}
+{"grapheme": "mile", "phoneme": "m a \u026a\u032f l\n", "outputs": "m\u02c8a\u026al"}
+{"grapheme": "millions", "phoneme": "m \u026a l j \u0259 n z\n", "outputs": "m\u02c8\u026alj\u0259nz"}
+{"grapheme": "mine", "phoneme": "m a \u026a n\n", "outputs": "m\u02c8a\u026an"}
+{"grapheme": "mines", "phoneme": "m a \u026a n z\n", "outputs": "m\u02c8a\u026anz"}
+{"grapheme": "mining", "phoneme": "m a \u026a n \u026a \u014b\n", "outputs": "m\u02c8a\u026an\u026a\u014b"}
+{"grapheme": "ministry", "phoneme": "m \u026a n \u026a s t \u0279 i\n", "outputs": "m\u02c8\u026an\u0259st\u0279i"}
+{"grapheme": "minus", "phoneme": "m a \u026a n \u0259 s\n", "outputs": "m\u02c8a\u026an\u0259s"}
+{"grapheme": "misconduct", "phoneme": "m \u026a s k \u0259 n d \u028c k t\n", "outputs": "m\u02cc\u026ask\u0251nd\u02c8\u028ckt"}
+{"grapheme": "miss", "phoneme": "m \u026a s\n", "outputs": "m\u02c8\u026as"}
+{"grapheme": "missed", "phoneme": "m \u026a s t\n", "outputs": "m\u02c8\u026ast"}
+{"grapheme": "misses", "phoneme": "m \u026a s \u026a z\n", "outputs": "m\u02c8\u026as\u0259z"}
+{"grapheme": "missing", "phoneme": "m \u026a s \u026a \u014b\n", "outputs": "m\u02c8\u026as\u026a\u014b"}
+{"grapheme": "moderator", "phoneme": "m \u0254 d \u0259 \u0279 e \u026a t \u0259 \u0279\n", "outputs": "m\u02c8\u0251\u02d0d\u025a\u02cce\u026at\u025a"}
+{"grapheme": "modules", "phoneme": "m \u0251 d\u0361\u0292 u l z\n", "outputs": "m\u02c8\u0251\u02d0d\u0292ulz"}
+{"grapheme": "moist", "phoneme": "m \u0254 \u026a s t\n", "outputs": "m\u02c8\u0254\u026ast"}
+{"grapheme": "mongolian", "phoneme": "m \u0254 \u014b \u0261 o \u028a l i \u0259 n\n", "outputs": "m\u0251\u014bg\u02c8o\u028ali\u0259n"}
+{"grapheme": "monterey", "phoneme": "m \u0251 n \u0259 \u0279 e \u026a\n", "outputs": "m\u02cc\u0251nt\u025a\u02c8e\u026a"}
+{"grapheme": "mood", "phoneme": "m u d\n", "outputs": "m\u02c8u\u02d0d"}
+{"grapheme": "moonlight", "phoneme": "m u n l a \u026a t\n", "outputs": "m\u02c8u\u02d0nl\u02cca\u026at"}
+{"grapheme": "mostly", "phoneme": "m o \u028a s t l i\n", "outputs": "m\u02c8o\u028astli"}
+{"grapheme": "motivate", "phoneme": "m o \u028a t \u026a v e \u026a t\n", "outputs": "m\u02c8o\u028at\u0259v\u02cce\u026at"}
+{"grapheme": "mountains", "phoneme": "m a \u028a n t n\u0329 z\n", "outputs": "m\u02c8a\u028ant\u0259nz"}
+{"grapheme": "municipal", "phoneme": "m j u n \u026a s \u026a p \u0259 l\n", "outputs": "mjun\u02c8\u026as\u0259p\u0259l"}
+{"grapheme": "music", "phoneme": "m j u z \u026a k\n", "outputs": "mj\u02c8u\u02d0z\u026ak"}
+{"grapheme": "mythology", "phoneme": "m \u026a \u03b8 \u0251 l \u0259 d\u0361\u0292 i\n", "outputs": "m\u0259\u03b8\u02c8\u0251\u02d0l\u0259d\u0292i"}
+{"grapheme": "myths", "phoneme": "m \u026a \u03b8 s\n", "outputs": "m\u02c8\u026a\u03b8s"}
+{"grapheme": "national", "phoneme": "n \u00e6 \u0283 \u0259 n \u0259 l\n", "outputs": "n\u02c8\u00e6\u0283\u0259n\u0259l"}
+{"grapheme": "naval", "phoneme": "n e \u026a v \u0259 l\n", "outputs": "n\u02c8e\u026av\u0259l"}
+{"grapheme": "neatly", "phoneme": "n i t l i\n", "outputs": "n\u02c8i\u02d0tli"}
+{"grapheme": "negotiable", "phoneme": "n \u026a \u0261 o \u028a \u0283 i \u0259 b \u0259 l\n", "outputs": "n\u0259g\u02c8o\u028a\u0283\u0259b\u0259l"}
+{"grapheme": "nelson", "phoneme": "n \u025b l s \u0259 n\n", "outputs": "n\u02c8\u025bls\u0259n"}
+{"grapheme": "nerve", "phoneme": "n \u025d v\n", "outputs": "n\u02c8\u025av"}
+{"grapheme": "nerves", "phoneme": "n \u025d v z\n", "outputs": "n\u02c8\u025avz"}
+{"grapheme": "nevis", "phoneme": "n i v \u026a s\n", "outputs": "n\u02c8\u025bv\u026as"}
+{"grapheme": "newton", "phoneme": "n j u t \u0259 n\n", "outputs": "n\u02c8u\u02d0t\u0259n"}
+{"grapheme": "nile", "phoneme": "n a \u026a l\n", "outputs": "n\u02c8a\u026al"}
+{"grapheme": "ninth", "phoneme": "n a \u026a n \u03b8\n", "outputs": "n\u02c8a\u026an\u03b8"}
+{"grapheme": "nominee", "phoneme": "n \u0254 m \u026a n i\n", "outputs": "n\u02cc\u0251m\u0259n\u02c8i\u02d0"}
+{"grapheme": "notice", "phoneme": "n o \u028a t \u026a s\n", "outputs": "n\u02c8o\u028at\u0259s"}
+{"grapheme": "noticed", "phoneme": "n o \u028a t \u026a s t\n", "outputs": "n\u02c8o\u028at\u0259st"}
+{"grapheme": "noticing", "phoneme": "n o \u028a t \u026a s \u026a \u014b\n", "outputs": "n\u02c8o\u028at\u026as\u026a\u014b"}
+{"grapheme": "nous", "phoneme": "n u s\n", "outputs": "n\u02c8u\u02d0s"}
+{"grapheme": "nudity", "phoneme": "n u d \u026a t i\n", "outputs": "n\u02c8u\u02d0d\u026ati"}
+{"grapheme": "numerical", "phoneme": "n j u m \u025b \u0279 \u026a k \u0259 l\n", "outputs": "num\u02c8\u025b\u0279\u0259k\u0259l"}
+{"grapheme": "oath", "phoneme": "o \u028a \u03b8\n", "outputs": "\u02c8o\u028a\u03b8"}
+{"grapheme": "obama", "phoneme": "o \u028a b \u0251 m \u0259\n", "outputs": "\u02cco\u028ab\u02c8\u0251\u02d0m\u0259"}
+{"grapheme": "obscene", "phoneme": "\u0259 b s i n\n", "outputs": "\u0251bs\u02c8i\u02d0n"}
+{"grapheme": "obviously", "phoneme": "\u0251 b v i \u0259 s l i\n", "outputs": "\u02c8\u0251\u02d0bvi\u0259sli"}
+{"grapheme": "officially", "phoneme": "\u0259 f \u026a \u0283 \u0259 l i\n", "outputs": "\u0259f\u02c8\u026a\u0283\u0259li"}
+{"grapheme": "oh", "phoneme": "o \u028a\n", "outputs": "\u02c8o\u028a"}
+{"grapheme": "older", "phoneme": "o \u028a l d \u025a\n", "outputs": "\u02c8o\u028ald\u025a"}
+{"grapheme": "omg", "phoneme": "o \u028a \u025b m d\u0361\u0292 i\n", "outputs": "\u02c8\u0251\u02d0m"}
+{"grapheme": "opacity", "phoneme": "o \u028a p \u00e6 s \u026a t i\n", "outputs": "o\u028ap\u02c8\u00e6s\u0259ti"}
+{"grapheme": "opinion", "phoneme": "\u0259 p \u026a n j \u0259 n\n", "outputs": "\u0259p\u02c8\u026anj\u0259n"}
+{"grapheme": "opinions", "phoneme": "\u0259 p \u026a n j \u0259 n z\n", "outputs": "\u0259p\u02c8\u026anj\u0259nz"}
+{"grapheme": "opt", "phoneme": "\u0254 p t\n", "outputs": "\u02c8\u0251\u02d0pt"}
+{"grapheme": "optical", "phoneme": "\u0251 p t \u026a k \u0259 l\n", "outputs": "\u02c8\u0251\u02d0pt\u026ak\u0259l"}
+{"grapheme": "organic", "phoneme": "\u0254 \u0279 \u0261 \u00e6 n \u026a k\n", "outputs": "\u0254\u0279g\u02c8\u00e6n\u026ak"}
+{"grapheme": "organize", "phoneme": "\u0254 \u0279 \u0261 \u0259 n a \u026a z\n", "outputs": "\u02c8\u0254\u02d0\u0279g\u0259n\u02cca\u026az"}
+{"grapheme": "organized", "phoneme": "\u0254 \u0279 \u0261 \u0259 n a \u026a z d\n", "outputs": "\u02c8\u0254\u02d0\u0279g\u0259n\u02cca\u026azd"}
+{"grapheme": "osborne", "phoneme": "\u0254 z b \u0254 \u0279 n\n", "outputs": "\u02c8\u0254\u02d0zb\u02cc\u0254\u0279n"}
+{"grapheme": "oslo", "phoneme": "\u0254 z l o \u028a\n", "outputs": "\u02c8\u0251\u02d0zlo\u028a"}
+{"grapheme": "ounces", "phoneme": "a \u028a n s \u026a z\n", "outputs": "\u02c8a\u028ans\u0259z"}
+{"grapheme": "outer", "phoneme": "a \u028a t \u025a\n", "outputs": "\u02c8a\u028at\u025a"}
+{"grapheme": "outlook", "phoneme": "a \u028a t l \u028a k\n", "outputs": "\u02c8a\u028atl\u02cc\u028ak"}
+{"grapheme": "oval", "phoneme": "o \u028a v \u0259 l\n", "outputs": "\u02c8o\u028av\u0259l"}
+{"grapheme": "over", "phoneme": "o \u028a v \u025a\n", "outputs": "\u02c8o\u028av\u025a"}
+{"grapheme": "override", "phoneme": "o \u028a v \u0259 \u0279 \u0279 a \u026a d\n", "outputs": "\u02c8o\u028av\u025a\u0279\u02cca\u026ad"}
+{"grapheme": "owners", "phoneme": "o \u028a n \u025a z\n", "outputs": "\u02c8o\u028an\u025az"}
+{"grapheme": "package", "phoneme": "p \u00e6 k \u026a d\u0361\u0292\n", "outputs": "p\u02c8\u00e6k\u0259d\u0292"}
+{"grapheme": "papa", "phoneme": "p \u0251 p \u0259\n", "outputs": "p\u02c8\u0251\u02d0p\u0259"}
+{"grapheme": "parsley", "phoneme": "p \u0251 \u0279 s l i\n", "outputs": "p\u02c8\u0251\u02d0\u0279sli"}
+{"grapheme": "partly", "phoneme": "p \u0251 \u0279 t l i\n", "outputs": "p\u02c8\u0251\u02d0\u0279tli"}
+{"grapheme": "passive", "phoneme": "p \u00e6 s \u026a v\n", "outputs": "p\u02c8\u00e6s\u026av"}
+{"grapheme": "past", "phoneme": "p \u00e6 s t\n", "outputs": "p\u02c8\u00e6st"}
+{"grapheme": "patio", "phoneme": "p \u00e6 t i o \u028a\n", "outputs": "p\u02c8\u00e6ti\u02cco\u028a"}
+{"grapheme": "patrol", "phoneme": "p \u0259 t \u0279 o \u028a l\n", "outputs": "p\u0259t\u0279\u02c8o\u028al"}
+{"grapheme": "pavilion", "phoneme": "p \u0259 v \u026a l j \u0259 n\n", "outputs": "p\u0259v\u02c8\u026alj\u0259n"}
+{"grapheme": "payments", "phoneme": "p e \u026a m \u0259 n t s\n", "outputs": "p\u02c8e\u026am\u0259nts"}
+{"grapheme": "pedestal", "phoneme": "p \u025b d \u026a s t \u0259 l\n", "outputs": "p\u02c8\u025bd\u0259st\u0259l"}
+{"grapheme": "pedestrian", "phoneme": "p \u0259 d \u025b s t \u0279 i \u0259 n\n", "outputs": "p\u0259d\u02c8\u025bst\u0279i\u0259n"}
+{"grapheme": "permit", "phoneme": "p \u025d m \u026a t\n", "outputs": "p\u02c8\u025am\u02cc\u026at"}
+{"grapheme": "permitted", "phoneme": "p \u025a m \u026a t \u026a d\n", "outputs": "p\u025am\u02c8\u026at\u0259d"}
+{"grapheme": "persistent", "phoneme": "p \u025a s \u026a s t \u0259 n t\n", "outputs": "p\u025as\u02c8\u026ast\u0259nt"}
+{"grapheme": "persona", "phoneme": "p \u025d s o \u028a n \u0259\n", "outputs": "p\u025as\u02c8o\u028an\u0259"}
+{"grapheme": "personality", "phoneme": "p \u025d s \u0259 n \u00e6 l \u026a t i\n", "outputs": "p\u02cc\u025as\u0259n\u02c8\u00e6l\u026ati"}
+{"grapheme": "perspective", "phoneme": "p \u025a s p \u025b k t \u026a v\n", "outputs": "p\u025asp\u02c8\u025bkt\u026av"}
+{"grapheme": "peru", "phoneme": "p \u0259 \u0279 u\n", "outputs": "p\u025a\u02c8u\u02d0"}
+{"grapheme": "pharmacy", "phoneme": "f \u0251 \u0279 m \u0259 s i\n", "outputs": "f\u02c8\u0251\u02d0\u0279m\u0259si"}
+{"grapheme": "physician", "phoneme": "f \u026a z \u026a \u0283 \u0259 n\n", "outputs": "f\u0259z\u02c8\u026a\u0283\u0259n"}
+{"grapheme": "physiological", "phoneme": "f \u026a z i \u0259 l \u0251 d\u0361\u0292 \u026a k \u0259 l\n", "outputs": "f\u02cc\u026azi\u0259l\u02c8\u0251\u02d0d\u0292\u026ak\u0259l"}
+{"grapheme": "pick", "phoneme": "p \u026a k\n", "outputs": "p\u02c8\u026ak"}
+{"grapheme": "picked", "phoneme": "p\u02b0 \u026a k t\n", "outputs": "p\u02c8\u026akt"}
+{"grapheme": "picking", "phoneme": "p \u026a k \u026a \u014b\n", "outputs": "p\u02c8\u026ak\u026a\u014b"}
+{"grapheme": "picks", "phoneme": "p \u026a k s\n", "outputs": "p\u02c8\u026aks"}
+{"grapheme": "pictures", "phoneme": "p \u026a k t\u0361\u0283 \u0259 z\n", "outputs": "p\u02c8\u026akt\u0283\u025az"}
+{"grapheme": "pier", "phoneme": "p \u026a \u0279\n", "outputs": "p\u02c8\u026a\u0279"}
+{"grapheme": "pig", "phoneme": "p \u026a \u0261\n", "outputs": "p\u02c8\u026ag"}
+{"grapheme": "pigeon", "phoneme": "p \u026a d\u0361\u0292 \u0259 n\n", "outputs": "p\u02c8\u026ad\u0292\u0259n"}
+{"grapheme": "pigs", "phoneme": "p \u026a \u0261 z\n", "outputs": "p\u02c8\u026agz"}
+{"grapheme": "pike", "phoneme": "p a \u026a k\n", "outputs": "p\u02c8a\u026ak"}
+{"grapheme": "piston", "phoneme": "p \u026a s t \u0259 n\n", "outputs": "p\u02c8\u026ast\u0259n"}
+{"grapheme": "pitch", "phoneme": "p \u026a t\u0361\u0283\n", "outputs": "p\u02c8\u026at\u0283"}
+{"grapheme": "pitched", "phoneme": "p \u026a t\u0361\u0283 t\n", "outputs": "p\u02c8\u026at\u0283t"}
+{"grapheme": "pitching", "phoneme": "p \u026a t\u0361\u0283 t \u026a \u014b\n", "outputs": "p\u02c8\u026at\u0283\u026a\u014b"}
+{"grapheme": "playful", "phoneme": "p l e \u026a f \u0259 l\n", "outputs": "pl\u02c8e\u026af\u0259l"}
+{"grapheme": "pocket", "phoneme": "p \u0251 k \u026a t\n", "outputs": "p\u02c8\u0251\u02d0k\u0259t"}
+{"grapheme": "pockets", "phoneme": "p \u0251 k \u026a t s\n", "outputs": "p\u02c8\u0251\u02d0k\u0259ts"}
+{"grapheme": "point", "phoneme": "p \u0254 \u026a n t\n", "outputs": "p\u02c8\u0254\u026ant"}
+{"grapheme": "pointe", "phoneme": "p w \u0251 n t\n", "outputs": "p\u02c8\u0254\u026ant"}
+{"grapheme": "pointed", "phoneme": "p \u0254 \u026a n t \u026a d\n", "outputs": "p\u02c8\u0254\u026ant\u0259d"}
+{"grapheme": "pointing", "phoneme": "p \u0254 \u026a n t \u026a \u014b\n", "outputs": "p\u02c8\u0254\u026ant\u026a\u014b"}
+{"grapheme": "points", "phoneme": "p \u0254 \u026a n t s\n", "outputs": "p\u02c8\u0254\u026ants"}
+{"grapheme": "politician", "phoneme": "p \u0251 l \u026a t \u026a \u0283 \u0259 n\n", "outputs": "p\u02cc\u0251l\u0259t\u02c8\u026a\u0283\u0259n"}
+{"grapheme": "pop", "phoneme": "p \u0251 p\n", "outputs": "p\u02c8\u0251\u02d0p"}
+{"grapheme": "popping", "phoneme": "p \u0251 p \u026a \u014b\n", "outputs": "p\u02c8\u0251\u02d0p\u026a\u014b"}
+{"grapheme": "pops", "phoneme": "p \u0251 p s\n", "outputs": "p\u02c8\u0251\u02d0ps"}
+{"grapheme": "popularity", "phoneme": "p \u0254 p j \u0259 l \u00e6 \u0279 \u026a t i\n", "outputs": "p\u02cc\u0251pj\u0259l\u02c8\u025b\u0279\u0259ti"}
+{"grapheme": "portal", "phoneme": "p \u0254 \u0279 t \u0259 l\n", "outputs": "p\u02c8\u0254\u02d0\u0279t\u0259l"}
+{"grapheme": "portugal", "phoneme": "p \u0254 \u0279 t\u0361\u0283 \u0259 \u0261 \u0259 l\n", "outputs": "p\u02c8\u0254\u02d0\u0279t\u0283\u0259g\u0259l"}
+{"grapheme": "possess", "phoneme": "p \u0259 z \u025b s\n", "outputs": "p\u0259z\u02c8\u025bs"}
+{"grapheme": "possessed", "phoneme": "p \u0259 z \u025b s t\n", "outputs": "p\u0259z\u02c8\u025bst"}
+{"grapheme": "possesses", "phoneme": "p \u0259 z \u025b s \u026a z\n", "outputs": "p\u0259z\u02c8\u025bs\u0259z"}
+{"grapheme": "postage", "phoneme": "p o \u028a s t \u026a d\u0361\u0292\n", "outputs": "p\u02c8o\u028ast\u0259d\u0292"}
+{"grapheme": "powell", "phoneme": "p a \u028a w \u0259 l\n", "outputs": "p\u02c8a\u028a\u0259l"}
+{"grapheme": "pray", "phoneme": "p \u0279 e \u026a\n", "outputs": "p\u0279\u02c8e\u026a"}
+{"grapheme": "predict", "phoneme": "p \u0279 \u026a d \u026a k t\n", "outputs": "p\u0279\u026ad\u02c8\u026akt"}
+{"grapheme": "predicted", "phoneme": "p \u0279 \u026a d \u026a k t \u026a d\n", "outputs": "p\u0279\u026ad\u02c8\u026akt\u026ad"}
+{"grapheme": "prediction", "phoneme": "p \u0279 \u026a d \u026a k \u0283 n\n", "outputs": "p\u0279id\u02c8\u026ak\u0283\u0259n"}
+{"grapheme": "preference", "phoneme": "p \u0279 \u025b f \u0259 \u0279 \u0259 n s\n", "outputs": "p\u0279\u02c8\u025bf\u025a\u0259ns"}
+{"grapheme": "premium", "phoneme": "p \u0279 i m i \u0259 m\n", "outputs": "p\u0279\u02c8i\u02d0mi\u0259m"}
+{"grapheme": "preparation", "phoneme": "p \u0279 \u025b p \u0259 \u0279 e \u026a \u0283 \u0259 n\n", "outputs": "p\u0279\u02cc\u025bp\u025a\u02c8e\u026a\u0283\u0259n"}
+{"grapheme": "prima", "phoneme": "p \u0279 i m \u0259\n", "outputs": "p\u0279\u02c8i\u02d0m\u0259"}
+{"grapheme": "princeton", "phoneme": "p \u0279 \u026a n s t \u0259 n\n", "outputs": "p\u0279\u02c8\u026anst\u0259n"}
+{"grapheme": "proficiency", "phoneme": "p \u0279 \u0259 f \u026a \u0283 \u0259 n s i\n", "outputs": "p\u0279\u0259f\u02c8\u026a\u0283\u0259nsi"}
+{"grapheme": "proliferation", "phoneme": "p \u0279 \u0259 l \u026a f \u0259 \u0279 e \u026a \u0283 \u0259 n\n", "outputs": "p\u0279\u02cco\u028al\u026af\u025a\u02c8e\u026a\u0283\u0259n"}
+{"grapheme": "promote", "phoneme": "p \u0279 \u0259 m o \u028a t\n", "outputs": "p\u0279\u0259m\u02c8o\u028at"}
+{"grapheme": "promoting", "phoneme": "p \u0279 \u0259 m o \u028a t \u026a \u014b\n", "outputs": "p\u0279\u0259m\u02c8o\u028at\u026a\u014b"}
+{"grapheme": "promotional", "phoneme": "p \u0279 \u0259 m o \u028a \u0283 \u0259 n \u0259 l\n", "outputs": "p\u0279\u0259m\u02c8o\u028a\u0283\u0259n\u0259l"}
+{"grapheme": "pronounced", "phoneme": "p \u0279 \u0259 n a \u028a n s t\n", "outputs": "p\u0279\u0259n\u02c8a\u028anst"}
+{"grapheme": "prototype", "phoneme": "p \u0279 o \u028a t \u0259 t a \u026a p\n", "outputs": "p\u0279\u02c8o\u028at\u0259t\u02cca\u026ap"}
+{"grapheme": "prototyping", "phoneme": "p \u0279 o \u028a t \u0259 t a \u026a p \u026a \u014b\n", "outputs": "p\u0279\u02c8o\u028at\u0259t\u026ap\u026a\u014b"}
+{"grapheme": "pseudo", "phoneme": "s u d o \u028a\n", "outputs": "s\u02c8u\u02d0do\u028a"}
+{"grapheme": "public", "phoneme": "p \u028c b l \u026a k\n", "outputs": "p\u02c8\u028cbl\u026ak"}
+{"grapheme": "publicly", "phoneme": "p \u028c b l \u026a k l i\n", "outputs": "p\u02c8\u028cbl\u026akli"}
+{"grapheme": "publish", "phoneme": "p \u028c b l \u026a \u0283\n", "outputs": "p\u02c8\u028cbl\u026a\u0283"}
+{"grapheme": "published", "phoneme": "p \u028c b l \u026a \u0283 t\n", "outputs": "p\u02c8\u028cbl\u026a\u0283t"}
+{"grapheme": "publishing", "phoneme": "p \u028c b l \u026a \u0283 \u026a \u014b\n", "outputs": "p\u02c8\u028cbl\u026a\u0283\u026a\u014b"}
+{"grapheme": "pun", "phoneme": "p \u028c n\n", "outputs": "p\u02c8\u028cn"}
+{"grapheme": "pupil", "phoneme": "p j u p \u0259 l\n", "outputs": "pj\u02c8u\u02d0p\u0259l"}
+{"grapheme": "puppies", "phoneme": "p \u028c p i z\n", "outputs": "p\u02c8\u028cpiz"}
+{"grapheme": "puppy", "phoneme": "p \u028c p i\n", "outputs": "p\u02c8\u028cpi"}
+{"grapheme": "purification", "phoneme": "p j \u028a \u0259 \u0279 \u026a f \u026a k e \u026a \u0283 \u0259 n\n", "outputs": "pj\u02cc\u028a\u0279\u0259f\u0259k\u02c8e\u026a\u0283\u0259n"}
+{"grapheme": "purse", "phoneme": "p \u025d s\n", "outputs": "p\u02c8\u025as"}
+{"grapheme": "pursuit", "phoneme": "p \u025d s u t\n", "outputs": "p\u025as\u02c8u\u02d0t"}
+{"grapheme": "python", "phoneme": "p a \u026a \u03b8 \u0251 n\n", "outputs": "p\u02c8a\u026a\u03b8\u0251n"}
+{"grapheme": "quad", "phoneme": "k w \u0251 d\n", "outputs": "kw\u02c8\u0251\u02d0d"}
+{"grapheme": "quarter", "phoneme": "k w \u0254 \u0279 t \u025a\n", "outputs": "kw\u02c8\u0254\u02d0\u0279t\u025a"}
+{"grapheme": "racism", "phoneme": "\u0279 e \u026a s \u026a z m\u0329\n", "outputs": "\u0279\u02c8e\u026as\u02cc\u026az\u0259m"}
+{"grapheme": "raid", "phoneme": "\u0279 e \u026a d\n", "outputs": "\u0279\u02c8e\u026ad"}
+{"grapheme": "rail", "phoneme": "\u0279 e \u026a l\n", "outputs": "\u0279\u02c8e\u026al"}
+{"grapheme": "rare", "phoneme": "\u0279 \u025b \u0279\n", "outputs": "\u0279\u02c8\u025b\u0279"}
+{"grapheme": "raymond", "phoneme": "\u0279 e \u026a m \u0259 n d\n", "outputs": "\u0279\u02c8e\u026am\u0259nd"}
+{"grapheme": "reach", "phoneme": "\u0279 i t\u0361\u0283\n", "outputs": "\u0279\u02c8i\u02d0t\u0283"}
+{"grapheme": "reached", "phoneme": "\u0279 i t\u0361\u0283 t\n", "outputs": "\u0279\u02c8i\u02d0t\u0283t"}
+{"grapheme": "reaches", "phoneme": "\u0279 i t\u0361\u0283 \u026a z\n", "outputs": "\u0279\u02c8i\u02d0t\u0283\u0259z"}
+{"grapheme": "reaching", "phoneme": "\u0279 i t\u0361\u0283 \u026a \u014b\n", "outputs": "\u0279\u02c8i\u02d0t\u0283\u026a\u014b"}
+{"grapheme": "realm", "phoneme": "\u0279 \u025b l m\n", "outputs": "\u0279\u02c8\u025blm"}
+{"grapheme": "rebirth", "phoneme": "\u0279 i b \u025d \u03b8\n", "outputs": "\u0279ib\u02c8\u025a\u03b8"}
+{"grapheme": "receive", "phoneme": "\u0279 \u026a s i v\n", "outputs": "\u0279\u0259s\u02c8i\u02d0v"}
+{"grapheme": "received", "phoneme": "\u0279 \u026a s i v d\n", "outputs": "\u0279\u0259s\u02c8i\u02d0vd"}
+{"grapheme": "receiver", "phoneme": "\u0279 \u0259 s i v \u025a\n", "outputs": "\u0279\u0259s\u02c8i\u02d0v\u025a"}
+{"grapheme": "receives", "phoneme": "\u0279 \u026a s i v z\n", "outputs": "\u0279\u0259s\u02c8i\u02d0vz"}
+{"grapheme": "receiving", "phoneme": "\u0279 \u026a s i v \u026a \u014b\n", "outputs": "\u0279\u0259s\u02c8i\u02d0v\u026a\u014b"}
+{"grapheme": "red", "phoneme": "\u0279 \u025b d\n", "outputs": "\u0279\u02c8\u025bd"}
+{"grapheme": "redundant", "phoneme": "\u0279 \u026a d \u028c n d \u0259 n t\n", "outputs": "\u0279\u026ad\u02c8\u028cnd\u0259nt"}
+{"grapheme": "reforms", "phoneme": "\u0279 \u026a f \u0254 \u0279 m z\n", "outputs": "\u0279\u0259f\u02c8\u0254\u02d0\u0279mz"}
+{"grapheme": "refrain", "phoneme": "\u0279 \u026a f \u0279 e \u026a n\n", "outputs": "\u0279\u026af\u0279\u02c8e\u026an"}
+{"grapheme": "refresh", "phoneme": "\u0279 \u026a f \u0279 \u025b \u0283\n", "outputs": "\u0279\u02c8\u026af\u0279\u025b\u0283"}
+{"grapheme": "refreshing", "phoneme": "\u0279 \u0259 f \u0279 \u025b \u0283 \u026a \u014b\n", "outputs": "\u0279\u026af\u0279\u02c8\u025b\u0283\u026a\u014b"}
+{"grapheme": "relax", "phoneme": "\u0279 \u026a l \u00e6 k s\n", "outputs": "\u0279\u026al\u02c8\u00e6ks"}
+{"grapheme": "relaxed", "phoneme": "\u0279 \u026a l \u00e6 k s t\n", "outputs": "\u0279\u026al\u02c8\u00e6kst"}
+{"grapheme": "relevant", "phoneme": "\u0279 \u025b l \u0259 v \u0259 n t\n", "outputs": "\u0279\u02c8\u025bl\u0259v\u0259nt"}
+{"grapheme": "relieve", "phoneme": "\u0279 \u026a l i v\n", "outputs": "\u0279\u026al\u02c8i\u02d0v"}
+{"grapheme": "relieved", "phoneme": "\u0279 \u026a l i v d\n", "outputs": "\u0279\u026al\u02c8i\u02d0vd"}
+{"grapheme": "religion", "phoneme": "\u0279 \u026a l \u026a d\u0361\u0292 \u0259 n\n", "outputs": "\u0279\u026al\u02c8\u026ad\u0292\u0259n"}
+{"grapheme": "relish", "phoneme": "\u0279 \u025b l \u026a \u0283\n", "outputs": "\u0279\u02c8\u025bl\u026a\u0283"}
+{"grapheme": "require", "phoneme": "\u0279 \u026a k w a \u026a \u0279\n", "outputs": "\u0279\u02ccikw\u02c8a\u026a\u025a"}
+{"grapheme": "required", "phoneme": "\u0279 \u026a k w a \u026a \u0279 d\n", "outputs": "\u0279ikw\u02c8a\u026a\u025ad"}
+{"grapheme": "requires", "phoneme": "\u0279 \u026a k w a \u026a \u0279 z\n", "outputs": "\u0279ikw\u02c8a\u026a\u025az"}
+{"grapheme": "requiring", "phoneme": "\u0279 \u026a k w a \u026a \u0259 \u0279 \u026a \u014b\n", "outputs": "\u0279ikw\u02c8a\u026a\u025a\u026a\u014b"}
+{"grapheme": "rescue", "phoneme": "\u0279 \u025b s k j u\n", "outputs": "\u0279\u02c8\u025bskju"}
+{"grapheme": "rescued", "phoneme": "\u0279 \u025b s k j u d\n", "outputs": "\u0279\u02c8\u025bskjud"}
+{"grapheme": "residue", "phoneme": "\u0279 \u025b z \u026a d u\n", "outputs": "\u0279\u02c8\u025bz\u0259d\u02ccu"}
+{"grapheme": "respond", "phoneme": "\u0279 \u0259 s p \u0251 n d\n", "outputs": "\u0279\u026asp\u02c8\u0251\u02d0nd"}
+{"grapheme": "responded", "phoneme": "\u0279 \u0259 s p \u0251 n d \u026a d\n", "outputs": "\u0279\u026asp\u02c8\u0251\u02d0nd\u026ad"}
+{"grapheme": "return", "phoneme": "\u0279 \u026a t \u025d n\n", "outputs": "\u0279\u026at\u02c8\u025an"}
+{"grapheme": "returned", "phoneme": "\u0279 \u026a t \u025d n d\n", "outputs": "\u0279\u026at\u02c8\u025and"}
+{"grapheme": "returning", "phoneme": "\u0279 \u026a t \u025d n \u026a \u014b\n", "outputs": "\u0279\u026at\u02c8\u025an\u026a\u014b"}
+{"grapheme": "returns", "phoneme": "\u0279 \u026a t \u025d n z\n", "outputs": "\u0279\u026at\u02c8\u025anz"}
+{"grapheme": "revenge", "phoneme": "\u0279 \u026a v \u025b n d\u0361\u0292\n", "outputs": "\u0279iv\u02c8\u025bnd\u0292"}
+{"grapheme": "rid", "phoneme": "\u0279 \u026a d\n", "outputs": "\u0279\u02c8\u026ad"}
+{"grapheme": "rig", "phoneme": "\u0279 \u026a \u0261\n", "outputs": "\u0279\u02c8\u026ag"}
+{"grapheme": "rigging", "phoneme": "\u0279 \u026a \u0261 \u026a \u014b\n", "outputs": "\u0279\u02c8\u026ag\u026a\u014b"}
+{"grapheme": "rigs", "phoneme": "\u0279 \u026a \u0261 z\n", "outputs": "\u0279\u02c8\u026agz"}
+{"grapheme": "rinse", "phoneme": "\u0279 \u026a n s\n", "outputs": "\u0279\u02c8\u026ans"}
+{"grapheme": "riot", "phoneme": "\u0279 a \u026a \u026a t\n", "outputs": "\u0279\u02c8a\u026a\u0259t"}
+{"grapheme": "ripped", "phoneme": "\u0279 \u026a p t\n", "outputs": "\u0279\u02c8\u026apt"}
+{"grapheme": "road", "phoneme": "\u0279 o \u028a d\n", "outputs": "\u0279\u02c8o\u028ad"}
+{"grapheme": "robert", "phoneme": "\u0279 \u0251 b \u025a t\n", "outputs": "\u0279\u02c8\u0251\u02d0b\u025at"}
+{"grapheme": "rochester", "phoneme": "\u0279 \u0254 t\u0361\u0283 \u025b s t \u0259\n", "outputs": "\u0279\u02c8\u0251\u02d0t\u0283\u02cc\u025bst\u025a"}
+{"grapheme": "rock", "phoneme": "\u0279 \u0251 k\n", "outputs": "\u0279\u02c8\u0251\u02d0k"}
+{"grapheme": "rocket", "phoneme": "\u0279 \u0251 k \u026a t\n", "outputs": "\u0279\u02c8\u0251\u02d0k\u0259t"}
+{"grapheme": "rocks", "phoneme": "\u0279 \u0254 k s\n", "outputs": "\u0279\u02c8\u0251\u02d0ks"}
+{"grapheme": "rome", "phoneme": "\u0279 o \u028a m\n", "outputs": "\u0279\u02c8o\u028am"}
+{"grapheme": "rope", "phoneme": "\u0279 o \u028a p\n", "outputs": "\u0279\u02c8o\u028ap"}
+{"grapheme": "ropes", "phoneme": "\u0279 o \u028a p s\n", "outputs": "\u0279\u02c8o\u028aps"}
+{"grapheme": "rosemary", "phoneme": "\u0279 o \u028a z m \u025b \u0279 i\n", "outputs": "\u0279\u02c8o\u028azm\u02cc\u025b\u0279i"}
+{"grapheme": "rotate", "phoneme": "\u0279 o \u028a t e \u026a t\n", "outputs": "\u0279\u02c8o\u028at\u02cce\u026at"}
+{"grapheme": "rotor", "phoneme": "\u0279 o \u028a t \u025a\n", "outputs": "\u0279\u02c8o\u028at\u025a"}
+{"grapheme": "routine", "phoneme": "\u0279 u t i n\n", "outputs": "\u0279ut\u02c8i\u02d0n"}
+{"grapheme": "rue", "phoneme": "\u0279 u\n", "outputs": "\u0279\u02c8u\u02d0"}
+{"grapheme": "russian", "phoneme": "\u0279 \u028c \u0283 \u0259 n\n", "outputs": "\u0279\u02c8\u028c\u0283\u0259n"}
+{"grapheme": "sac", "phoneme": "s \u00e6 k\n", "outputs": "s\u02c8\u00e6k"}
+{"grapheme": "safeguard", "phoneme": "s e \u026a f \u0261 \u0251 \u0279 d\n", "outputs": "s\u02c8e\u026afg\u02cc\u0251\u0279d"}
+{"grapheme": "safety", "phoneme": "s e \u026a f t i\n", "outputs": "s\u02c8e\u026afti"}
+{"grapheme": "sage", "phoneme": "s e \u026a d\u0361\u0292\n", "outputs": "s\u02c8e\u026ad\u0292"}
+{"grapheme": "saints", "phoneme": "s e \u026a n t s\n", "outputs": "s\u02c8e\u026ants"}
+{"grapheme": "salvation", "phoneme": "s \u00e6 l v e \u026a \u0283 \u0259 n\n", "outputs": "s\u00e6lv\u02c8e\u026a\u0283\u0259n"}
+{"grapheme": "sap", "phoneme": "s \u00e6 p\n", "outputs": "s\u02c8\u00e6p"}
+{"grapheme": "sassy", "phoneme": "s \u00e6 s i\n", "outputs": "s\u02c8\u00e6si"}
+{"grapheme": "scrub", "phoneme": "s k \u0279 \u028c b\n", "outputs": "sk\u0279\u02c8\u028cb"}
+{"grapheme": "seemingly", "phoneme": "s i m \u026a \u014b l i\n", "outputs": "s\u02c8i\u02d0m\u026a\u014bli"}
+{"grapheme": "select", "phoneme": "s \u026a l \u025b k t\n", "outputs": "s\u0259l\u02c8\u025bkt"}
+{"grapheme": "selected", "phoneme": "s \u026a l \u025b k t \u026a d\n", "outputs": "s\u0259l\u02c8\u025bkt\u0259d"}
+{"grapheme": "selena", "phoneme": "s \u0259 l i n \u0259\n", "outputs": "s\u0259l\u02c8i\u02d0n\u0259"}
+{"grapheme": "send", "phoneme": "s \u025b n d\n", "outputs": "s\u02c8\u025bnd"}
+{"grapheme": "sending", "phoneme": "s \u025b n d \u026a \u014b\n", "outputs": "s\u02c8\u025bnd\u026a\u014b"}
+{"grapheme": "sends", "phoneme": "s \u025b n d z\n", "outputs": "s\u02c8\u025bndz"}
+{"grapheme": "sent", "phoneme": "s \u025b n t\n", "outputs": "s\u02c8\u025bnt"}
+{"grapheme": "sergeant", "phoneme": "s \u0251 \u0279 d\u0361\u0292 \u0259 n t\n", "outputs": "s\u02c8\u0251\u02d0\u0279d\u0292\u0259nt"}
+{"grapheme": "seven", "phoneme": "s \u025b v \u0259 n\n", "outputs": "s\u02c8\u025bv\u0259n"}
+{"grapheme": "sewing", "phoneme": "s o \u028a \u026a \u014b\n", "outputs": "s\u02c8o\u028a\u026a\u014b"}
+{"grapheme": "sewn", "phoneme": "s o \u028a n\n", "outputs": "s\u02c8o\u028an"}
+{"grapheme": "sex", "phoneme": "s \u025b k s\n", "outputs": "s\u02c8\u025bks"}
+{"grapheme": "seymour", "phoneme": "s i m \u0254 \u0279\n", "outputs": "s\u02c8i\u02d0m\u0254\u0279"}
+{"grapheme": "shake", "phoneme": "\u0283 e \u026a k\n", "outputs": "\u0283\u02c8e\u026ak"}
+{"grapheme": "shakes", "phoneme": "\u0283 e \u026a k s\n", "outputs": "\u0283\u02c8e\u026aks"}
+{"grapheme": "shaking", "phoneme": "\u0283 e \u026a k \u026a \u014b\n", "outputs": "\u0283\u02c8e\u026ak\u026a\u014b"}
+{"grapheme": "shallow", "phoneme": "\u0283 \u00e6 l o \u028a\n", "outputs": "\u0283\u02c8\u00e6lo\u028a"}
+{"grapheme": "shanghai", "phoneme": "\u0283 \u00e6 \u014b h a \u026a\n", "outputs": "\u0283\u02c8\u00e6\u014bh\u02c8a\u026a"}
+{"grapheme": "shelley", "phoneme": "\u0283 \u025b l i\n", "outputs": "\u0283\u02c8\u025bli"}
+{"grapheme": "shemale", "phoneme": "\u0283 i m e \u026a l\n", "outputs": "\u0283\u0259m\u02c8e\u026al"}
+{"grapheme": "shimmer", "phoneme": "\u0283 \u026a m \u0259 \u0279\n", "outputs": "\u0283\u02c8\u026am\u025a"}
+{"grapheme": "ship", "phoneme": "\u0283 \u026a p\n", "outputs": "\u0283\u02c8\u026ap"}
+{"grapheme": "shipment", "phoneme": "\u0283 \u026a p m \u0259 n t\n", "outputs": "\u0283\u02c8\u026apm\u0259nt"}
+{"grapheme": "shipped", "phoneme": "\u0283 \u026a p t\n", "outputs": "\u0283\u02c8\u026apt"}
+{"grapheme": "shipping", "phoneme": "\u0283 \u026a p \u026a \u014b\n", "outputs": "\u0283\u02c8\u026ap\u026a\u014b"}
+{"grapheme": "ships", "phoneme": "\u0283 \u026a p s\n", "outputs": "\u0283\u02c8\u026aps"}
+{"grapheme": "shoe", "phoneme": "\u0283 u\n", "outputs": "\u0283\u02c8u\u02d0"}
+{"grapheme": "shoes", "phoneme": "\u0283 u z\n", "outputs": "\u0283\u02c8u\u02d0z"}
+{"grapheme": "shook", "phoneme": "\u0283 \u028a k\n", "outputs": "\u0283\u02c8\u028ak"}
+{"grapheme": "sic", "phoneme": "s \u026a k\n", "outputs": "s\u02c8\u026ak"}
+{"grapheme": "sich", "phoneme": "s i t\u0361\u0283\n", "outputs": "s\u02c8\u026at\u0283"}
+{"grapheme": "sie", "phoneme": "s a \u026a\n", "outputs": "s\u02c8i\u02d0"}
+{"grapheme": "sienna", "phoneme": "s i \u025b n \u0259\n", "outputs": "si\u02c8\u025bn\u0259"}
+{"grapheme": "sink", "phoneme": "s \u026a \u014b k\n", "outputs": "s\u02c8\u026a\u014bk"}
+{"grapheme": "sinking", "phoneme": "s \u026a \u014b k \u026a \u014b\n", "outputs": "s\u02c8\u026a\u014bk\u026a\u014b"}
+{"grapheme": "sinks", "phoneme": "s \u026a \u014b k s\n", "outputs": "s\u02c8\u026a\u014bks"}
+{"grapheme": "sins", "phoneme": "s \u026a n z\n", "outputs": "s\u02c8\u026anz"}
+{"grapheme": "sir", "phoneme": "s \u025d\n", "outputs": "s\u02c8\u025a"}
+{"grapheme": "skeleton", "phoneme": "s k \u025b l \u0259 t \u0259 n\n", "outputs": "sk\u02c8\u025bl\u0259t\u0259n"}
+{"grapheme": "sketch", "phoneme": "s k \u025b t\u0361\u0283\n", "outputs": "sk\u02c8\u025bt\u0283"}
+{"grapheme": "sketches", "phoneme": "s k \u025b t\u0361\u0283 \u026a z\n", "outputs": "sk\u02c8\u025bt\u0283\u0259z"}
+{"grapheme": "ski", "phoneme": "s k i\n", "outputs": "sk\u02c8i\u02d0"}
+{"grapheme": "skiing", "phoneme": "s k i \u026a \u014b\n", "outputs": "sk\u02c8i\u02d0\u026a\u014b"}
+{"grapheme": "skype", "phoneme": "s k a \u026a p\n", "outputs": "sk\u02c8a\u026ap"}
+{"grapheme": "slip", "phoneme": "s l \u026a p\n", "outputs": "sl\u02c8\u026ap"}
+{"grapheme": "slipped", "phoneme": "s l \u026a p t\n", "outputs": "sl\u02c8\u026apt"}
+{"grapheme": "slipping", "phoneme": "s l \u026a p \u026a \u014b\n", "outputs": "sl\u02c8\u026ap\u026a\u014b"}
+{"grapheme": "slutty", "phoneme": "s l \u028c t i\n", "outputs": "sl\u02c8\u028ct\u02cci"}
+{"grapheme": "snapchat", "phoneme": "s n \u00e6 p t\u0361\u0283 \u00e6 t\n", "outputs": "sn\u02c8\u00e6pt\u0283\u02cc\u00e6t"}
+{"grapheme": "snowflake", "phoneme": "s n o \u028a f l e \u026a k\n", "outputs": "sn\u02c8o\u028afl\u02cce\u026ak"}
+{"grapheme": "soap", "phoneme": "s o \u028a p\n", "outputs": "s\u02c8o\u028ap"}
+{"grapheme": "social", "phoneme": "s o \u028a \u0283 \u0259 l\n", "outputs": "s\u02c8o\u028a\u0283\u0259l"}
+{"grapheme": "socialist", "phoneme": "s o \u028a \u0283 \u0259 l \u026a s t\n", "outputs": "s\u02c8o\u028a\u0283\u0259l\u0259st"}
+{"grapheme": "solution", "phoneme": "s \u0259 l j u \u0283 \u0259 n\n", "outputs": "s\u0259l\u02c8u\u02d0\u0283\u0259n"}
+{"grapheme": "some", "phoneme": "s \u028c m\n", "outputs": "s\u02c8\u028cm"}
+{"grapheme": "somehow", "phoneme": "s \u028c m h a \u028a\n", "outputs": "s\u02c8\u028cmh\u02cca\u028a"}
+{"grapheme": "someone", "phoneme": "s \u028c m w \u028c n\n", "outputs": "s\u02c8\u028cmw\u02cc\u028cn"}
+{"grapheme": "sony", "phoneme": "s o \u028a n i\n", "outputs": "s\u02c8o\u028ani"}
+{"grapheme": "sooner", "phoneme": "s u n \u025a\n", "outputs": "s\u02c8u\u02d0n\u025a"}
+{"grapheme": "sophistication", "phoneme": "s \u0259 f \u026a s t \u026a k e \u026a \u0283 \u0259 n\n", "outputs": "s\u0259f\u02cc\u026ast\u0259k\u02c8e\u026a\u0283\u0259n"}
+{"grapheme": "souvenir", "phoneme": "s u v \u0259 n \u026a \u0259 \u0279\n", "outputs": "s\u02ccuv\u0259n\u02c8\u026a\u0279"}
+{"grapheme": "spare", "phoneme": "s p \u025b \u0279\n", "outputs": "sp\u02c8\u025b\u0279"}
+{"grapheme": "speak", "phoneme": "s p i k\n", "outputs": "sp\u02c8i\u02d0k"}
+{"grapheme": "specialty", "phoneme": "s p \u025b \u0283 \u0259 l t i\n", "outputs": "sp\u02c8\u025b\u0283\u0259lti"}
+{"grapheme": "specimen", "phoneme": "s p \u025b s \u026a m \u026a n\n", "outputs": "sp\u02c8\u025bs\u0259m\u0259n"}
+{"grapheme": "speed", "phoneme": "s p i d\n", "outputs": "sp\u02c8i\u02d0d"}
+{"grapheme": "speeding", "phoneme": "s p i d \u026a \u014b\n", "outputs": "sp\u02c8i\u02d0d\u026a\u014b"}
+{"grapheme": "spencer", "phoneme": "s p \u025b n s \u025a\n", "outputs": "sp\u02c8\u025bns\u025a"}
+{"grapheme": "spoken", "phoneme": "s p o \u028a k \u0259 n\n", "outputs": "sp\u02c8o\u028ak\u0259n"}
+{"grapheme": "sprinkler", "phoneme": "s p \u0279 i \u014b k l \u025a\n", "outputs": "sp\u0279\u02c8\u026a\u014bkl\u025a"}
+{"grapheme": "stage", "phoneme": "s t e \u026a d\u0361\u0292\n", "outputs": "st\u02c8e\u026ad\u0292"}
+{"grapheme": "stages", "phoneme": "s t e \u026a d\u0361\u0292 \u026a z\n", "outputs": "st\u02c8e\u026ad\u0292\u0259z"}
+{"grapheme": "state", "phoneme": "s t e \u026a t\n", "outputs": "st\u02c8e\u026at"}
+{"grapheme": "stated", "phoneme": "s t e \u026a t \u026a d\n", "outputs": "st\u02c8e\u026at\u0259d"}
+{"grapheme": "states", "phoneme": "s t e \u026a t s\n", "outputs": "st\u02c8e\u026ats"}
+{"grapheme": "stating", "phoneme": "s t e \u026a t \u026a \u014b\n", "outputs": "st\u02c8e\u026at\u026a\u014b"}
+{"grapheme": "status", "phoneme": "s t \u00e6 t \u0259 s\n", "outputs": "st\u02c8\u00e6t\u0259s"}
+{"grapheme": "statute", "phoneme": "s t \u00e6 t\u0361\u0283 u t\n", "outputs": "st\u02c8\u00e6t\u0283ut"}
+{"grapheme": "steam", "phoneme": "s t i m\n", "outputs": "st\u02c8i\u02d0m"}
+{"grapheme": "steer", "phoneme": "s t \u026a \u0259 \u0279\n", "outputs": "st\u02c8\u026a\u0279"}
+{"grapheme": "stern", "phoneme": "s t \u025d n\n", "outputs": "st\u02c8\u025an"}
+{"grapheme": "still", "phoneme": "s t \u026a l\n", "outputs": "st\u02c8\u026al"}
+{"grapheme": "stone", "phoneme": "s t o \u028a n\n", "outputs": "st\u02c8o\u028an"}
+{"grapheme": "stones", "phoneme": "s t o \u028a n z\n", "outputs": "st\u02c8o\u028anz"}
+{"grapheme": "stove", "phoneme": "s t o \u028a v\n", "outputs": "st\u02c8o\u028av"}
+{"grapheme": "strait", "phoneme": "s t \u0279 e \u026a t\n", "outputs": "st\u0279\u02c8e\u026at"}
+{"grapheme": "strategist", "phoneme": "s t \u0279 \u00e6 t \u0259 d\u0361\u0292 \u026a s t\n", "outputs": "st\u0279\u02c8\u00e6t\u026ad\u0292\u026ast"}
+{"grapheme": "stripe", "phoneme": "s t\u0361\u0283 \u0279 \u028c \u026a p\n", "outputs": "st\u0279\u02c8a\u026ap"}
+{"grapheme": "striped", "phoneme": "s t \u0279 a \u026a p t\n", "outputs": "st\u0279\u02c8a\u026apt"}
+{"grapheme": "stripes", "phoneme": "s t \u0279 a \u026a p s\n", "outputs": "st\u0279\u02c8a\u026aps"}
+{"grapheme": "strong", "phoneme": "s t \u0279 \u0254 \u014b\n", "outputs": "st\u0279\u02c8\u0254\u02d0\u014b"}
+{"grapheme": "strongly", "phoneme": "s t \u0279 \u0254 \u014b l i\n", "outputs": "st\u0279\u02c8\u0254\u02d0\u014bli"}
+{"grapheme": "sublime", "phoneme": "s \u0259 b l a \u026a m\n", "outputs": "s\u0259bl\u02c8a\u026am"}
+{"grapheme": "suede", "phoneme": "s w e \u026a d\n", "outputs": "sw\u02c8e\u026ad"}
+{"grapheme": "sunny", "phoneme": "s \u028c n i\n", "outputs": "s\u02c8\u028cni"}
+{"grapheme": "sunshine", "phoneme": "s \u028c n \u0283 a \u026a n\n", "outputs": "s\u02c8\u028cn\u0283\u02cca\u026an"}
+{"grapheme": "supporter", "phoneme": "s \u0259 p \u0254 \u0279 t \u025a\n", "outputs": "s\u0259p\u02c8\u0254\u02d0\u0279t\u025a"}
+{"grapheme": "suspend", "phoneme": "s \u0259 s p \u025b n d\n", "outputs": "s\u0259sp\u02c8\u025bnd"}
+{"grapheme": "suspended", "phoneme": "s \u0259 s p \u025b n d \u026a d\n", "outputs": "s\u0259sp\u02c8\u025bnd\u0259d"}
+{"grapheme": "sustainability", "phoneme": "s \u0259 s t e \u026a n \u0259 b \u026a l \u026a t i\n", "outputs": "s\u0259st\u02cce\u026an\u0259b\u02c8\u026al\u026ati"}
+{"grapheme": "swap", "phoneme": "s w \u0254 p\n", "outputs": "sw\u02c8\u0251\u02d0p"}
+{"grapheme": "swiftly", "phoneme": "s w \u026a f t l i\n", "outputs": "sw\u02c8\u026aftli"}
+{"grapheme": "swivel", "phoneme": "s w \u026a v \u0259 l\n", "outputs": "sw\u02c8\u026av\u0259l"}
+{"grapheme": "symptom", "phoneme": "s \u026a m p t \u0259 m\n", "outputs": "s\u02c8\u026ampt\u0259m"}
+{"grapheme": "synthesis", "phoneme": "s \u026a n \u03b8 \u0259 s \u026a s\n", "outputs": "s\u02c8\u026an\u03b8\u0259s\u0259s"}
+{"grapheme": "syrian", "phoneme": "s \u026a \u0279 i \u0259 n\n", "outputs": "s\u02c8\u026a\u0279i\u0259n"}
+{"grapheme": "tang", "phoneme": "t \u00e6 \u014b\n", "outputs": "t\u02c8\u00e6\u014b"}
+{"grapheme": "tapestry", "phoneme": "t \u00e6 p \u0259 s t \u0279 i\n", "outputs": "t\u02c8\u00e6p\u0259st\u0279i"}
+{"grapheme": "tattoo", "phoneme": "t \u00e6 t u\n", "outputs": "t\u00e6t\u02c8u\u02d0"}
+{"grapheme": "taught", "phoneme": "t \u0254 t\n", "outputs": "t\u02c8\u0254\u02d0t"}
+{"grapheme": "taxation", "phoneme": "t \u00e6 k s e \u026a \u0283 \u0259 n\n", "outputs": "t\u00e6ks\u02c8e\u026a\u0283\u0259n"}
+{"grapheme": "teaching", "phoneme": "t i t\u0361\u0283 \u026a \u014b\n", "outputs": "t\u02c8i\u02d0t\u0283\u026a\u014b"}
+{"grapheme": "teaspoon", "phoneme": "t i s p u n\n", "outputs": "t\u02c8i\u02d0sp\u02ccun"}
+{"grapheme": "tech", "phoneme": "t \u025b k\n", "outputs": "t\u02c8\u025bk"}
+{"grapheme": "techno", "phoneme": "t \u025b k n o \u028a\n", "outputs": "t\u02c8\u025bkno\u028a"}
+{"grapheme": "teller", "phoneme": "t \u025b l \u0259 \u0279\n", "outputs": "t\u02c8\u025bl\u025a"}
+{"grapheme": "temporarily", "phoneme": "t \u025b m p \u0259 \u0279 \u025b \u0279 \u0259 l i\n", "outputs": "t\u02cc\u025bmp\u025a\u02c8\u025b\u0279\u0259li"}
+{"grapheme": "temptation", "phoneme": "t \u025b m p t e \u026a \u0283 \u0259 n\n", "outputs": "t\u025bmt\u02c8e\u026a\u0283\u0259n"}
+{"grapheme": "tension", "phoneme": "t \u025b n \u0283 \u0259 n\n", "outputs": "t\u02c8\u025bn\u0283\u0259n"}
+{"grapheme": "terrified", "phoneme": "t \u025b \u0279 \u026a f a \u026a d\n", "outputs": "t\u02c8\u025b\u0279\u0259f\u02cca\u026ad"}
+{"grapheme": "terrifying", "phoneme": "t \u025b \u0279 \u026a f a \u026a \u026a \u014b\n", "outputs": "t\u02c8\u025b\u0279\u0259f\u02cca\u026a\u026a\u014b"}
+{"grapheme": "territorial", "phoneme": "t \u025b \u0279 \u026a t \u0254 \u0279 i \u0259 l\n", "outputs": "t\u02cc\u025b\u0279\u026at\u02c8\u0254\u02d0\u0279i\u0259l"}
+{"grapheme": "thereby", "phoneme": "\u00f0 \u025b \u0279 b a \u026a\n", "outputs": "\u00f0\u02c8\u025b\u0279b\u02c8a\u026a"}
+{"grapheme": "thermal", "phoneme": "\u03b8 \u025d m \u0259 l\n", "outputs": "\u03b8\u02c8\u025am\u0259l"}
+{"grapheme": "thing", "phoneme": "\u03b8 \u026a \u014b\n", "outputs": "\u03b8\u02c8\u026a\u014b"}
+{"grapheme": "things", "phoneme": "\u03b8 \u026a \u014b z\n", "outputs": "\u03b8\u02c8\u026a\u014bz"}
+{"grapheme": "though", "phoneme": "\u00f0 o \u028a\n", "outputs": "\u00f0\u02c8o\u028a"}
+{"grapheme": "three", "phoneme": "\u03b8 \u0279 i\n", "outputs": "\u03b8\u0279\u02c8i\u02d0"}
+{"grapheme": "thriller", "phoneme": "\u03b8 \u0279 \u026a l \u025a\n", "outputs": "\u03b8\u0279\u02c8\u026al\u025a"}
+{"grapheme": "thrive", "phoneme": "\u03b8 \u0279 a \u026a v\n", "outputs": "\u03b8\u0279\u02c8a\u026av"}
+{"grapheme": "thriving", "phoneme": "\u03b8 \u0279 a \u026a v \u026a \u014b\n", "outputs": "\u03b8\u0279\u02c8a\u026av\u026a\u014b"}
+{"grapheme": "tiffany", "phoneme": "t \u026a f \u0259 n i\n", "outputs": "t\u02c8\u026af\u0259ni"}
+{"grapheme": "time", "phoneme": "t a \u026a m\n", "outputs": "t\u02c8a\u026am"}
+{"grapheme": "times", "phoneme": "t a \u026a m z\n", "outputs": "t\u02c8a\u026amz"}
+{"grapheme": "timing", "phoneme": "t a \u026a m \u026a \u014b\n", "outputs": "t\u02c8a\u026am\u026a\u014b"}
+{"grapheme": "togo", "phoneme": "t o \u028a \u0261 o \u028a\n", "outputs": "t\u02c8o\u028ago\u028a"}
+{"grapheme": "tor", "phoneme": "t \u0254 \u0279\n", "outputs": "t\u02c8\u0254\u02d0\u0279"}
+{"grapheme": "touch", "phoneme": "t \u028c t\u0361\u0283\n", "outputs": "t\u02c8\u028ct\u0283"}
+{"grapheme": "touched", "phoneme": "t \u028c t\u0361\u0283 t\n", "outputs": "t\u02c8\u028ct\u0283t"}
+{"grapheme": "touches", "phoneme": "t \u028c t\u0361\u0283 \u026a z\n", "outputs": "t\u02c8\u028ct\u0283\u0259z"}
+{"grapheme": "touching", "phoneme": "t \u028c t\u0361\u0283 \u026a \u014b\n", "outputs": "t\u02c8\u028ct\u0283\u026a\u014b"}
+{"grapheme": "traits", "phoneme": "t \u0279 e \u026a t s\n", "outputs": "t\u0279\u02c8e\u026ats"}
+{"grapheme": "trap", "phoneme": "t \u0279 \u00e6 p\n", "outputs": "t\u0279\u02c8\u00e6p"}
+{"grapheme": "traps", "phoneme": "t \u0279 \u00e6 p s\n", "outputs": "t\u0279\u02c8\u00e6ps"}
+{"grapheme": "trek", "phoneme": "t \u0279 \u025b k\n", "outputs": "t\u0279\u02c8\u025bk"}
+{"grapheme": "trent", "phoneme": "t \u0279 \u025b n t\n", "outputs": "t\u0279\u02c8\u025bnt"}
+{"grapheme": "tribal", "phoneme": "t \u0279 a \u026a b \u0259 l\n", "outputs": "t\u0279\u02c8a\u026ab\u0259l"}
+{"grapheme": "tribune", "phoneme": "t \u0279 \u026a b j u n\n", "outputs": "t\u0279\u02c8\u026abjun"}
+{"grapheme": "trivia", "phoneme": "t \u0279 \u026a v i \u0259\n", "outputs": "t\u0279\u02c8\u026avi\u0259"}
+{"grapheme": "true", "phoneme": "t \u0279 u\n", "outputs": "t\u0279\u02c8u\u02d0"}
+{"grapheme": "tub", "phoneme": "t \u028c b\n", "outputs": "t\u02c8\u028cb"}
+{"grapheme": "tunnel", "phoneme": "t \u028c n \u0259 l\n", "outputs": "t\u02c8\u028cn\u0259l"}
+{"grapheme": "twice", "phoneme": "t w a \u026a s\n", "outputs": "tw\u02c8a\u026as"}
+{"grapheme": "tyson", "phoneme": "t a \u026a s \u0259 n\n", "outputs": "t\u02c8a\u026as\u0259n"}
+{"grapheme": "ultimately", "phoneme": "\u028c l t \u026a m \u0259 t l i\n", "outputs": "\u02c8\u028clt\u0259m\u0259tli"}
+{"grapheme": "ultra", "phoneme": "\u028c l t \u0279 \u0259\n", "outputs": "\u02c8\u028clt\u0279\u0259"}
+{"grapheme": "unaware", "phoneme": "\u028c n \u0259 w \u025b \u025a\n", "outputs": "\u02cc\u028cn\u0259w\u02c8\u025b\u0279"}
+{"grapheme": "uncertain", "phoneme": "\u028c n s \u025c t \u0259 n\n", "outputs": "\u0259ns\u02c8\u025at\u0259n"}
+{"grapheme": "uncommon", "phoneme": "\u028c n k \u0254 m \u0259 n\n", "outputs": "\u0259nk\u02c8\u0251\u02d0m\u0259n"}
+{"grapheme": "unfair", "phoneme": "\u028c n f \u025b \u025a\n", "outputs": "\u0259nf\u02c8\u025b\u0279"}
+{"grapheme": "unleash", "phoneme": "\u028c n l i \u0283\n", "outputs": "\u0259nl\u02c8i\u02d0\u0283"}
+{"grapheme": "unlimited", "phoneme": "\u028c n l \u026a m \u026a t \u026a d\n", "outputs": "\u0259nl\u02c8\u026am\u0259t\u0259d"}
+{"grapheme": "usher", "phoneme": "\u028c \u0283 \u0259 \u0279\n", "outputs": "\u02c8\u028c\u0283\u025a"}
+{"grapheme": "vegetarian", "phoneme": "v \u025b d\u0361\u0292 \u026a t \u025b \u0279 i \u0259 n\n", "outputs": "v\u02cc\u025bd\u0292\u0259t\u02c8\u025b\u0279i\u0259n"}
+{"grapheme": "vegetation", "phoneme": "v \u025b d\u0361\u0292 \u0259 t e \u026a \u0283 \u0259 n\n", "outputs": "v\u02cc\u025bd\u0292\u0259t\u02c8e\u026a\u0283\u0259n"}
+{"grapheme": "veil", "phoneme": "v e \u026a l\n", "outputs": "v\u02c8e\u026al"}
+{"grapheme": "versatile", "phoneme": "v \u025d s \u0259 t l\u0329\n", "outputs": "v\u02c8\u025as\u0259t\u0259l"}
+{"grapheme": "versatility", "phoneme": "v \u0259 \u0279 s \u0259 t \u026a l \u026a t i\n", "outputs": "v\u02cc\u025as\u0259t\u02c8\u026al\u0259ti"}
+{"grapheme": "vessels", "phoneme": "v \u025b s \u0259 l z\n", "outputs": "v\u02c8\u025bs\u0259lz"}
+{"grapheme": "victim", "phoneme": "v \u026a k t \u026a m\n", "outputs": "v\u02c8\u026akt\u0259m"}
+{"grapheme": "vine", "phoneme": "v a \u026a n\n", "outputs": "v\u02c8a\u026an"}
+{"grapheme": "violate", "phoneme": "v a \u026a \u0259 l e \u026a t\n", "outputs": "v\u02c8a\u026a\u0259le\u026at"}
+{"grapheme": "violated", "phoneme": "v a \u026a \u0259 l e \u026a t \u026a d\n", "outputs": "v\u02c8a\u026a\u0259le\u026at\u026ad"}
+{"grapheme": "violating", "phoneme": "v a \u026a \u0259 l e \u026a t \u026a \u014b\n", "outputs": "v\u02c8a\u026a\u0259le\u026at\u026a\u014b"}
+{"grapheme": "vulnerability", "phoneme": "v \u028c l n \u0259 \u0279 \u0259 b \u026a l \u026a t i\n", "outputs": "v\u02cc\u028cln\u025a\u0259b\u02c8\u026al\u026ati"}
+{"grapheme": "wade", "phoneme": "w e \u026a d\n", "outputs": "w\u02c8e\u026ad"}
+{"grapheme": "warfare", "phoneme": "w \u0254 \u0279 f \u025b \u0279\n", "outputs": "w\u02c8\u0254\u02d0\u0279f\u02cc\u025b\u0279"}
+{"grapheme": "way", "phoneme": "w e \u026a\n", "outputs": "w\u02c8e\u026a"}
+{"grapheme": "ways", "phoneme": "w e \u026a z\n", "outputs": "w\u02c8e\u026az"}
+{"grapheme": "weaker", "phoneme": "w i k \u025a\n", "outputs": "w\u02c8i\u02d0k\u025a"}
+{"grapheme": "weakness", "phoneme": "w i k n \u0259 s\n", "outputs": "w\u02c8i\u02d0kn\u0259s"}
+{"grapheme": "wealthy", "phoneme": "w \u025b l \u03b8 i\n", "outputs": "w\u02c8\u025bl\u03b8i"}
+{"grapheme": "weapons", "phoneme": "w \u025b p \u0259 n z\n", "outputs": "w\u02c8\u025bp\u0259nz"}
+{"grapheme": "weave", "phoneme": "w i v\n", "outputs": "w\u02c8i\u02d0v"}
+{"grapheme": "weaving", "phoneme": "w i v \u026a \u014b\n", "outputs": "w\u02c8i\u02d0v\u026a\u014b"}
+{"grapheme": "web", "phoneme": "w \u025b b\n", "outputs": "w\u02c8\u025bb"}
+{"grapheme": "webcam", "phoneme": "w \u025b b k \u00e6 m\n", "outputs": "w\u02c8\u025bbk\u02cc\u00e6m"}
+{"grapheme": "wedge", "phoneme": "w \u025b d\u0361\u0292\n", "outputs": "w\u02c8\u025bd\u0292"}
+{"grapheme": "weigh", "phoneme": "w e \u026a\n", "outputs": "w\u02c8e\u026a"}
+{"grapheme": "weighed", "phoneme": "w e \u026a d\n", "outputs": "w\u02c8e\u026ad"}
+{"grapheme": "weighing", "phoneme": "w e \u026a \u026a \u014b\n", "outputs": "w\u02c8e\u026a\u026a\u014b"}
+{"grapheme": "weighs", "phoneme": "w e \u026a z\n", "outputs": "w\u02c8e\u026az"}
+{"grapheme": "weight", "phoneme": "w e \u026a t\n", "outputs": "w\u02c8e\u026at"}
+{"grapheme": "weighted", "phoneme": "w e \u026a t \u026a d\n", "outputs": "w\u02c8e\u026at\u026ad"}
+{"grapheme": "weights", "phoneme": "w e \u026a t s\n", "outputs": "w\u02c8e\u026ats"}
+{"grapheme": "welcome", "phoneme": "w \u025b l k \u0259 m\n", "outputs": "w\u02c8\u025blk\u0259m"}
+{"grapheme": "welcomed", "phoneme": "w \u025b l k \u0259 m d\n", "outputs": "w\u02c8\u025blk\u0259md"}
+{"grapheme": "well", "phoneme": "w \u025b l\n", "outputs": "w\u02c8\u025bl"}
+{"grapheme": "wells", "phoneme": "w \u025b l z\n", "outputs": "w\u02c8\u025blz"}
+{"grapheme": "wharf", "phoneme": "w \u0254 \u0279 f\n", "outputs": "w\u02c8\u0254\u02d0\u0279f"}
+{"grapheme": "wichita", "phoneme": "w \u026a t\u0361\u0283 \u026a t \u0254\n", "outputs": "w\u02c8\u026at\u0283\u0259t\u02cc\u0254"}
+{"grapheme": "wider", "phoneme": "w a \u026a d \u025a\n", "outputs": "w\u02c8a\u026ad\u025a"}
+{"grapheme": "wii", "phoneme": "w i\n", "outputs": "w\u02c8i\u02d0"}
+{"grapheme": "win", "phoneme": "w \u026a n\n", "outputs": "w\u02c8\u026an"}
+{"grapheme": "wink", "phoneme": "w \u026a \u014b k\n", "outputs": "w\u02c8\u026a\u014bk"}
+{"grapheme": "winning", "phoneme": "w \u026a n \u026a \u014b\n", "outputs": "w\u02c8\u026an\u026a\u014b"}
+{"grapheme": "wins", "phoneme": "w \u026a n z\n", "outputs": "w\u02c8\u026anz"}
+{"grapheme": "wire", "phoneme": "w a \u026a \u025a\n", "outputs": "w\u02c8a\u026a\u025a"}
+{"grapheme": "wired", "phoneme": "w a \u026a \u0279 d\n", "outputs": "w\u02c8a\u026a\u025ad"}
+{"grapheme": "wires", "phoneme": "w a \u026a \u0279 z\n", "outputs": "w\u02c8a\u026a\u025az"}
+{"grapheme": "witch", "phoneme": "w \u026a t\u0361\u0283\n", "outputs": "w\u02c8\u026at\u0283"}
+{"grapheme": "wool", "phoneme": "w \u028a l\n", "outputs": "w\u02c8\u028al"}
+{"grapheme": "workflow", "phoneme": "w \u025d k f l o \u028a\n", "outputs": "w\u02c8\u025akfl\u02cco\u028a"}
+{"grapheme": "woven", "phoneme": "w o \u028a v \u0259 n\n", "outputs": "w\u02c8o\u028av\u0259n"}
+{"grapheme": "yelp", "phoneme": "j \u025b l p\n", "outputs": "j\u02c8\u025blp"}
+{"grapheme": "yemen", "phoneme": "j \u025b m \u0259 n\n", "outputs": "j\u02c8\u025bm\u0259n"}
+{"grapheme": "zambia", "phoneme": "z \u00e6 m b i \u0259\n", "outputs": "z\u02c8\u00e6mbi\u0259"}
+{"grapheme": "zip", "phoneme": "z \u026a p\n", "outputs": "z\u02c8\u026ap"}
+{"grapheme": "zodiac", "phoneme": "z o \u028a d \u026a \u00e6 k\n", "outputs": "z\u02c8o\u028adi\u02cc\u00e6k"}
